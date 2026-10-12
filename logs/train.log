@@ -1,0 +1,2160 @@
+2026-10-11 14:29:41,101 - __main__ - INFO - Training process started
+2026-10-11 14:29:41,101 - __main__ - INFO - Device: cuda
+2026-10-11 14:29:41,101 - __main__ - INFO - Data directory: preProcess
+2026-10-11 14:29:41,101 - __main__ - INFO - Output directory: result
+2026-10-11 14:29:41,101 - __main__ - INFO - Number of epochs: 10
+2026-10-11 14:29:41,194 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 14:29:41,210 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 14:29:41,795 - __main__ - INFO - Model: levit384
+2026-10-11 14:29:41,795 - __main__ - INFO - Number of classes: 23
+2026-10-11 14:29:41,795 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 14:29:41,795 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 14:29:41,796 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 14:29:41,796 - __main__ - INFO - training epochs: 10
+2026-10-11 14:36:35,330 - __main__ - INFO - Training process started
+2026-10-11 14:36:35,330 - __main__ - INFO - Device: cuda
+2026-10-11 14:36:35,330 - __main__ - INFO - Data directory: preProcess
+2026-10-11 14:36:35,330 - __main__ - INFO - Output directory: result
+2026-10-11 14:36:35,330 - __main__ - INFO - Number of epochs: 10
+2026-10-11 14:36:35,424 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 14:36:35,440 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 14:36:36,019 - __main__ - INFO - Model: levit384
+2026-10-11 14:36:36,019 - __main__ - INFO - Number of classes: 23
+2026-10-11 14:36:36,019 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 14:36:36,019 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 14:36:36,019 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 14:36:36,019 - __main__ - INFO - training epochs: 10
+2026-10-11 14:38:10,033 - __main__ - INFO - Training process started
+2026-10-11 14:38:10,033 - __main__ - INFO - Device: cuda
+2026-10-11 14:38:10,033 - __main__ - INFO - Data directory: preProcess
+2026-10-11 14:38:10,033 - __main__ - INFO - Output directory: result
+2026-10-11 14:38:10,033 - __main__ - INFO - Number of epochs: 10
+2026-10-11 14:38:10,118 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 14:38:10,135 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 14:38:10,950 - __main__ - INFO - Model: levit384
+2026-10-11 14:38:10,950 - __main__ - INFO - Number of classes: 23
+2026-10-11 14:38:10,951 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 14:38:10,951 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 14:38:10,951 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 14:38:10,951 - __main__ - INFO - training epochs: 10
+2026-10-11 14:43:52,255 - __main__ - INFO - Training process started
+2026-10-11 14:43:52,255 - __main__ - INFO - Device: cuda
+2026-10-11 14:43:52,255 - __main__ - INFO - Data directory: preProcess
+2026-10-11 14:43:52,255 - __main__ - INFO - Output directory: result
+2026-10-11 14:43:52,255 - __main__ - INFO - Number of epochs: 10
+2026-10-11 14:43:52,339 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 14:43:52,357 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 14:49:07,613 - __main__ - INFO - Training process started
+2026-10-11 14:49:07,613 - __main__ - INFO - Device: cuda
+2026-10-11 14:49:07,613 - __main__ - INFO - Data directory: preProcess
+2026-10-11 14:49:07,614 - __main__ - INFO - Output directory: result
+2026-10-11 14:49:07,614 - __main__ - INFO - Number of epochs: 10
+2026-10-11 14:49:07,699 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 14:49:07,716 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 14:49:08,545 - __main__ - INFO - Model: levit384
+2026-10-11 14:49:08,545 - __main__ - INFO - Number of classes: 23
+2026-10-11 14:49:08,545 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 14:49:08,545 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 14:49:08,545 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 14:49:08,545 - __main__ - INFO - training epochs: 10
+2026-10-11 14:51:53,922 - __main__ - INFO - Training process started
+2026-10-11 14:51:53,922 - __main__ - INFO - Device: cuda
+2026-10-11 14:51:53,922 - __main__ - INFO - Data directory: preProcess
+2026-10-11 14:51:53,922 - __main__ - INFO - Output directory: result
+2026-10-11 14:51:53,923 - __main__ - INFO - Number of epochs: 10
+2026-10-11 14:51:54,009 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 14:51:54,030 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 14:51:54,730 - __main__ - INFO - Model: levit384
+2026-10-11 14:51:54,730 - __main__ - INFO - Number of classes: 23
+2026-10-11 14:51:54,730 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 14:51:54,730 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 14:51:54,730 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 14:51:54,730 - __main__ - INFO - training epochs: 10
+2026-10-11 14:51:55,227 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.76
+2026-10-11 14:51:55,807 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.32
+2026-10-11 14:51:59,263 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.11
+2026-10-11 14:52:35,274 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.35
+2026-10-11 14:52:35,876 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.62
+2026-10-11 14:52:39,346 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.18
+2026-10-11 14:52:40,120 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.42
+2026-10-11 14:52:40,517 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.60
+2026-10-11 14:52:53,876 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.19
+2026-10-11 14:53:10,308 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.61
+2026-10-11 14:53:10,501 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.80
+2026-10-11 14:53:11,296 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.96
+2026-10-11 14:53:15,234 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.82
+2026-10-11 14:53:34,849 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.61
+2026-10-11 14:53:39,449 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.78
+2026-10-11 14:53:43,835 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.43
+2026-10-11 14:53:48,727 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.00
+2026-10-11 14:53:59,257 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.34
+2026-10-11 14:53:59,868 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.87
+2026-10-11 14:54:03,645 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.88
+2026-10-11 14:54:07,835 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.87
+2026-10-11 14:54:23,915 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.12
+2026-10-11 14:54:29,257 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.75
+2026-10-11 14:54:30,092 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.04
+2026-10-11 14:54:31,476 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.15
+2026-10-11 14:54:40,805 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.56
+2026-10-11 14:54:41,402 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 73.76
+2026-10-11 14:54:51,254 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.20
+2026-10-11 14:54:58,380 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.10
+2026-10-11 14:55:12,565 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.46
+2026-10-11 14:55:17,657 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.35
+2026-10-11 14:55:18,255 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.53
+2026-10-11 14:56:20,260 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.10
+2026-10-11 14:56:20,694 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.26
+2026-10-11 14:56:34,991 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.69
+2026-10-11 14:57:00,093 - PerformanceMonitoring - INFO - 
+Epoch 1:
+2026-10-11 14:57:00,093 - PerformanceMonitoring - INFO -   Train Loss: 0.2452 | Train Acc: 29.86%
+2026-10-11 14:57:00,093 - PerformanceMonitoring - INFO -   Val Loss:   0.1538 | Val Acc:   30.33%
+2026-10-11 14:57:00,093 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 14:57:00,093 - __main__ - INFO - lr: 0.0006693689601227977
+2026-10-11 14:57:00,093 - __main__ - INFO - epoch time: 305.36s
+2026-10-11 14:57:36,996 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.85
+2026-10-11 15:00:08,374 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.75
+2026-10-11 15:00:30,525 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.23
+2026-10-11 15:02:02,246 - PerformanceMonitoring - INFO - 
+Epoch 2:
+2026-10-11 15:02:02,246 - PerformanceMonitoring - INFO -   Train Loss: 0.0910 | Train Acc: 31.08%
+2026-10-11 15:02:02,246 - PerformanceMonitoring - INFO -   Val Loss:   0.0610 | Val Acc:   31.32%
+2026-10-11 15:02:02,246 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 15:02:02,246 - __main__ - INFO - lr: 0.00011474337861213349
+2026-10-11 15:02:02,246 - __main__ - INFO - epoch time: 302.15s
+2026-10-11 15:02:36,853 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.26
+2026-10-11 15:02:39,252 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.71
+2026-10-11 15:05:09,759 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.32
+2026-10-11 15:05:15,211 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.47
+2026-10-11 15:06:00,801 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.57
+2026-10-11 15:06:08,695 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.99
+2026-10-11 15:07:04,860 - PerformanceMonitoring - INFO - 
+Epoch 3:
+2026-10-11 15:07:04,860 - PerformanceMonitoring - INFO -   Train Loss: 0.0679 | Train Acc: 31.29%
+2026-10-11 15:07:04,860 - PerformanceMonitoring - INFO -   Val Loss:   0.0492 | Val Acc:   31.38%
+2026-10-11 15:07:04,860 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 15:07:04,860 - __main__ - INFO - lr: 6.96289864979979e-05
+2026-10-11 15:07:04,860 - __main__ - INFO - epoch time: 302.61s
+2026-10-11 17:01:55,651 - __main__ - INFO - Training process started
+2026-10-11 17:01:55,651 - __main__ - INFO - Device: cuda
+2026-10-11 17:01:55,651 - __main__ - INFO - Data directory: preProcess
+2026-10-11 17:01:55,651 - __main__ - INFO - Output directory: result
+2026-10-11 17:01:55,651 - __main__ - INFO - Number of epochs: 10
+2026-10-11 17:01:55,743 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 17:01:55,761 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 17:01:56,610 - __main__ - INFO - Model: levit384
+2026-10-11 17:01:56,610 - __main__ - INFO - Number of classes: 23
+2026-10-11 17:01:56,610 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 17:01:56,610 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 17:01:56,610 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 17:01:56,610 - __main__ - INFO - training epochs: 10
+2026-10-11 17:05:12,672 - __main__ - INFO - Training process started
+2026-10-11 17:05:12,672 - __main__ - INFO - Device: cuda
+2026-10-11 17:05:12,672 - __main__ - INFO - Data directory: preProcess
+2026-10-11 17:05:12,672 - __main__ - INFO - Output directory: result
+2026-10-11 17:05:12,672 - __main__ - INFO - Number of epochs: 10
+2026-10-11 17:05:12,765 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 17:05:12,783 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 17:05:13,600 - __main__ - INFO - Model: levit384
+2026-10-11 17:05:13,601 - __main__ - INFO - Number of classes: 23
+2026-10-11 17:05:13,601 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 17:05:13,601 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 17:05:13,601 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 17:05:13,601 - __main__ - INFO - training epochs: 10
+2026-10-11 17:53:27,328 - __main__ - INFO - Training process started
+2026-10-11 17:53:27,328 - __main__ - INFO - Device: cuda
+2026-10-11 17:53:27,328 - __main__ - INFO - Data directory: preProcess
+2026-10-11 17:53:27,328 - __main__ - INFO - Output directory: result
+2026-10-11 17:53:27,329 - __main__ - INFO - Number of epochs: 10
+2026-10-11 17:53:27,413 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 17:53:27,430 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 17:53:28,246 - __main__ - INFO - Model: levit384
+2026-10-11 17:53:28,246 - __main__ - INFO - Number of classes: 23
+2026-10-11 17:53:28,246 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 17:53:28,247 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 17:53:28,247 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 17:53:28,247 - __main__ - INFO - training epochs: 10
+2026-10-11 17:53:42,163 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.55
+2026-10-11 17:53:42,338 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.00
+2026-10-11 17:53:42,499 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.28
+2026-10-11 17:53:42,653 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.32
+2026-10-11 17:53:42,812 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.78
+2026-10-11 17:53:42,958 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.77
+2026-10-11 17:53:43,118 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.53
+2026-10-11 17:53:43,272 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.06
+2026-10-11 17:53:43,433 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.80
+2026-10-11 17:53:43,593 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.43
+2026-10-11 17:53:43,758 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.44
+2026-10-11 17:53:43,917 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.71
+2026-10-11 17:53:44,076 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.31
+2026-10-11 17:53:44,238 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.15
+2026-10-11 17:53:44,398 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.78
+2026-10-11 17:53:44,555 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.06
+2026-10-11 17:53:44,711 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.01
+2026-10-11 17:53:44,877 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.27
+2026-10-11 17:53:45,039 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.74
+2026-10-11 17:53:45,198 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.50
+2026-10-11 17:53:45,357 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.79
+2026-10-11 17:53:45,520 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.98
+2026-10-11 17:53:45,671 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.66
+2026-10-11 17:53:45,830 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.26
+2026-10-11 17:53:45,994 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.71
+2026-10-11 17:53:46,146 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 56.90
+2026-10-11 17:53:46,308 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.62
+2026-10-11 17:53:46,462 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.09
+2026-10-11 17:53:46,624 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.13
+2026-10-11 17:53:46,777 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.63
+2026-10-11 17:53:46,941 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.53
+2026-10-11 17:53:47,102 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.55
+2026-10-11 17:53:47,420 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.78
+2026-10-11 17:53:47,581 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.67
+2026-10-11 17:53:47,747 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.98
+2026-10-11 17:53:47,906 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.58
+2026-10-11 17:53:48,064 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.94
+2026-10-11 17:53:48,228 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.20
+2026-10-11 17:53:48,384 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.32
+2026-10-11 17:53:48,544 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.26
+2026-10-11 17:53:48,703 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.84
+2026-10-11 17:53:48,867 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.31
+2026-10-11 17:53:49,027 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.17
+2026-10-11 17:53:49,189 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.99
+2026-10-11 17:53:49,351 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.08
+2026-10-11 17:53:49,510 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.96
+2026-10-11 17:53:49,668 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.32
+2026-10-11 17:53:49,822 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.04
+2026-10-11 17:53:49,986 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.08
+2026-10-11 17:53:50,135 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.24
+2026-10-11 17:53:50,298 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.42
+2026-10-11 17:53:50,459 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.06
+2026-10-11 17:53:50,627 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.15
+2026-10-11 17:53:50,778 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.82
+2026-10-11 17:53:50,941 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.18
+2026-10-11 17:53:51,107 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.46
+2026-10-11 17:53:51,254 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 55.30
+2026-10-11 17:53:51,418 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.81
+2026-10-11 17:53:51,577 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 84.02
+2026-10-11 17:53:51,746 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.45
+2026-10-11 17:53:51,905 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.82
+2026-10-11 17:53:52,065 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.29
+2026-10-11 17:53:52,223 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.23
+2026-10-11 17:53:52,383 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.12
+2026-10-11 17:53:52,541 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.70
+2026-10-11 17:53:52,703 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.88
+2026-10-11 17:53:52,867 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.00
+2026-10-11 17:53:53,029 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.99
+2026-10-11 17:53:53,190 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.69
+2026-10-11 17:53:53,356 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.62
+2026-10-11 17:53:53,508 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.24
+2026-10-11 17:53:53,671 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.75
+2026-10-11 17:53:53,836 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.19
+2026-10-11 17:53:53,995 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.87
+2026-10-11 17:53:54,157 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.34
+2026-10-11 17:53:54,321 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.34
+2026-10-11 17:53:54,482 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.43
+2026-10-11 17:53:54,643 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 51.52
+2026-10-11 17:53:54,805 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.62
+2026-10-11 17:53:54,965 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.88
+2026-10-11 17:53:55,123 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.09
+2026-10-11 17:53:55,279 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.33
+2026-10-11 17:53:55,445 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.42
+2026-10-11 17:53:55,608 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 91.53
+2026-10-11 17:53:55,769 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.49
+2026-10-11 17:53:55,934 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.27
+2026-10-11 17:53:56,097 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 55.16
+2026-10-11 17:53:56,257 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.16
+2026-10-11 17:53:56,417 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.89
+2026-10-11 17:53:56,577 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.29
+2026-10-11 17:53:56,736 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.87
+2026-10-11 17:53:56,895 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.58
+2026-10-11 17:53:57,227 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 57.61
+2026-10-11 17:53:57,376 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.08
+2026-10-11 17:53:57,541 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.92
+2026-10-11 17:53:57,697 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 57.23
+2026-10-11 17:53:57,865 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.71
+2026-10-11 17:53:58,030 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.71
+2026-10-11 17:53:58,203 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.50
+2026-10-11 17:53:58,355 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.55
+2026-10-11 17:53:58,529 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.73
+2026-10-11 17:53:58,695 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.01
+2026-10-11 17:53:58,855 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.61
+2026-10-11 17:53:59,014 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.36
+2026-10-11 17:53:59,181 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.04
+2026-10-11 17:53:59,336 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.21
+2026-10-11 17:53:59,506 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.32
+2026-10-11 17:53:59,659 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.99
+2026-10-11 17:53:59,823 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.79
+2026-10-11 17:53:59,983 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 54.66
+2026-10-11 17:54:00,144 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.12
+2026-10-11 17:54:00,310 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.30
+2026-10-11 17:54:00,472 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.24
+2026-10-11 17:54:00,630 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.36
+2026-10-11 17:54:00,794 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.93
+2026-10-11 17:54:00,946 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.62
+2026-10-11 17:54:01,114 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.42
+2026-10-11 17:54:01,279 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 60.52
+2026-10-11 17:54:01,443 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.68
+2026-10-11 17:54:01,606 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.81
+2026-10-11 17:54:01,755 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.42
+2026-10-11 17:54:01,917 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.14
+2026-10-11 17:54:02,082 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.80
+2026-10-11 17:54:02,247 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.12
+2026-10-11 17:54:02,414 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.00
+2026-10-11 17:54:02,571 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.99
+2026-10-11 17:54:02,738 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.55
+2026-10-11 17:54:02,900 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.60
+2026-10-11 17:54:03,063 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.65
+2026-10-11 17:54:03,233 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.13
+2026-10-11 17:54:03,401 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.19
+2026-10-11 17:54:03,571 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.21
+2026-10-11 17:54:03,737 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.70
+2026-10-11 17:54:03,897 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.41
+2026-10-11 17:54:04,065 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.96
+2026-10-11 17:54:04,220 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.80
+2026-10-11 17:54:04,374 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.81
+2026-10-11 17:54:04,543 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.13
+2026-10-11 17:54:04,709 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.45
+2026-10-11 17:54:04,866 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.98
+2026-10-11 17:54:05,041 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.36
+2026-10-11 17:54:05,205 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.28
+2026-10-11 17:54:05,356 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.58
+2026-10-11 17:54:05,522 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.20
+2026-10-11 17:54:05,685 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 58.38
+2026-10-11 17:54:05,847 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.09
+2026-10-11 17:54:06,014 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.65
+2026-10-11 17:54:06,179 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.69
+2026-10-11 17:54:06,345 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.40
+2026-10-11 17:54:06,512 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.14
+2026-10-11 17:54:06,677 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.36
+2026-10-11 17:54:06,840 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.23
+2026-10-11 17:54:07,007 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.64
+2026-10-11 17:54:07,171 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.44
+2026-10-11 17:54:07,339 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.13
+2026-10-11 17:54:07,497 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.27
+2026-10-11 17:54:07,662 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.23
+2026-10-11 17:54:07,825 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.41
+2026-10-11 17:54:07,981 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.46
+2026-10-11 17:54:08,147 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.19
+2026-10-11 17:54:08,309 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.80
+2026-10-11 17:54:08,483 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.55
+2026-10-11 17:54:08,648 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.92
+2026-10-11 17:54:08,814 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.57
+2026-10-11 17:54:08,976 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.56
+2026-10-11 17:54:09,128 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.14
+2026-10-11 17:54:09,297 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.20
+2026-10-11 17:54:09,453 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.33
+2026-10-11 17:54:09,621 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.97
+2026-10-11 17:54:09,775 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.04
+2026-10-11 17:54:09,945 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.06
+2026-10-11 17:54:10,110 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.46
+2026-10-11 17:54:10,275 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.47
+2026-10-11 17:54:10,440 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.67
+2026-10-11 17:54:10,606 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 112.20
+2026-10-11 17:54:10,767 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.73
+2026-10-11 17:54:10,931 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.60
+2026-10-11 17:54:11,086 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.41
+2026-10-11 17:54:11,261 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.60
+2026-10-11 17:54:11,422 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.89
+2026-10-11 17:54:11,585 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.70
+2026-10-11 17:54:11,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.72
+2026-10-11 17:54:11,913 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.04
+2026-10-11 17:54:12,067 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.07
+2026-10-11 17:54:12,237 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.20
+2026-10-11 17:54:12,405 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.07
+2026-10-11 17:54:12,561 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.31
+2026-10-11 17:54:12,728 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.17
+2026-10-11 17:54:12,896 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.17
+2026-10-11 17:54:13,057 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.09
+2026-10-11 17:54:13,220 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.35
+2026-10-11 17:54:13,372 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.62
+2026-10-11 17:54:13,529 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.78
+2026-10-11 17:54:13,691 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.10
+2026-10-11 17:54:13,866 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.08
+2026-10-11 17:54:14,031 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.46
+2026-10-11 17:54:14,187 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.45
+2026-10-11 17:54:14,358 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.26
+2026-10-11 17:54:14,524 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.33
+2026-10-11 17:54:14,687 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.80
+2026-10-11 17:54:14,854 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.08
+2026-10-11 17:54:15,021 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.58
+2026-10-11 17:54:15,185 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.55
+2026-10-11 17:54:15,351 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.67
+2026-10-11 17:54:15,518 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.47
+2026-10-11 17:54:15,683 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.52
+2026-10-11 17:54:15,849 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 51.50
+2026-10-11 17:54:16,013 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.43
+2026-10-11 17:54:16,176 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.58
+2026-10-11 17:54:16,340 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.31
+2026-10-11 17:54:16,507 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.33
+2026-10-11 17:54:16,670 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.25
+2026-10-11 17:54:16,827 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.29
+2026-10-11 17:54:16,983 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.96
+2026-10-11 17:54:17,155 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 66.58
+2026-10-11 17:54:17,319 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 90.73
+2026-10-11 17:54:17,485 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.72
+2026-10-11 17:54:17,647 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.10
+2026-10-11 17:54:17,816 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.70
+2026-10-11 17:54:17,970 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.02
+2026-10-11 17:54:18,129 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.97
+2026-10-11 17:54:18,295 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.19
+2026-10-11 17:54:18,461 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.27
+2026-10-11 17:54:18,633 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.61
+2026-10-11 17:54:18,795 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.63
+2026-10-11 17:54:18,964 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.07
+2026-10-11 17:54:19,119 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.00
+2026-10-11 17:54:19,285 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.22
+2026-10-11 17:54:19,458 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.76
+2026-10-11 17:54:19,625 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.87
+2026-10-11 17:54:19,777 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.37
+2026-10-11 17:54:19,947 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.53
+2026-10-11 17:54:20,105 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.13
+2026-10-11 17:54:20,266 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.99
+2026-10-11 17:54:20,444 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.36
+2026-10-11 17:54:20,616 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.24
+2026-10-11 17:54:20,777 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.21
+2026-10-11 17:54:20,937 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.23
+2026-10-11 17:54:21,112 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.62
+2026-10-11 17:54:21,281 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.22
+2026-10-11 17:54:21,445 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.91
+2026-10-11 17:54:21,610 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.71
+2026-10-11 17:54:21,776 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.43
+2026-10-11 17:54:21,940 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.09
+2026-10-11 17:54:22,113 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.04
+2026-10-11 17:54:22,281 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.72
+2026-10-11 17:54:22,446 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.03
+2026-10-11 17:54:22,615 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.99
+2026-10-11 17:54:22,782 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.81
+2026-10-11 17:54:22,947 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.38
+2026-10-11 17:54:23,112 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.54
+2026-10-11 17:54:23,269 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.24
+2026-10-11 17:54:23,441 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.83
+2026-10-11 17:54:23,757 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.61
+2026-10-11 17:54:23,922 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.91
+2026-10-11 17:54:24,099 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.21
+2026-10-11 17:54:24,257 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.25
+2026-10-11 17:54:24,428 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.47
+2026-10-11 17:54:24,596 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.92
+2026-10-11 17:54:24,765 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.16
+2026-10-11 17:54:24,920 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.89
+2026-10-11 17:54:25,085 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.81
+2026-10-11 17:54:25,249 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.54
+2026-10-11 17:54:25,421 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.46
+2026-10-11 17:54:25,582 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.63
+2026-10-11 17:54:25,755 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.04
+2026-10-11 17:54:25,922 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.30
+2026-10-11 17:54:26,082 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.11
+2026-10-11 17:54:26,252 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.09
+2026-10-11 17:54:26,417 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.23
+2026-10-11 17:54:26,581 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.50
+2026-10-11 17:54:26,746 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.27
+2026-10-11 17:54:26,913 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.34
+2026-10-11 17:54:27,083 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.56
+2026-10-11 17:54:27,245 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.32
+2026-10-11 17:54:27,413 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.30
+2026-10-11 17:54:27,573 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.52
+2026-10-11 17:54:27,740 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.70
+2026-10-11 17:54:27,899 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.31
+2026-10-11 17:54:28,071 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.91
+2026-10-11 17:54:28,232 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.47
+2026-10-11 17:54:28,388 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.28
+2026-10-11 17:54:28,560 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.73
+2026-10-11 17:54:28,727 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.69
+2026-10-11 17:54:28,893 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.31
+2026-10-11 17:54:29,053 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 51.58
+2026-10-11 17:54:29,219 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.99
+2026-10-11 17:54:29,388 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.65
+2026-10-11 17:54:29,550 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.06
+2026-10-11 17:54:29,714 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.69
+2026-10-11 17:54:29,881 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.48
+2026-10-11 17:54:30,048 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.28
+2026-10-11 17:54:30,210 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.32
+2026-10-11 17:54:30,376 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.21
+2026-10-11 17:54:30,545 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.97
+2026-10-11 17:54:30,712 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.46
+2026-10-11 17:54:30,869 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.92
+2026-10-11 17:54:31,036 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.30
+2026-10-11 17:54:31,194 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.95
+2026-10-11 17:54:31,367 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.10
+2026-10-11 17:54:31,532 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.61
+2026-10-11 17:54:31,698 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.65
+2026-10-11 17:54:31,853 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.00
+2026-10-11 17:54:32,016 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.51
+2026-10-11 17:54:32,178 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.42
+2026-10-11 17:54:32,344 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.84
+2026-10-11 17:54:32,509 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.54
+2026-10-11 17:54:32,676 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.07
+2026-10-11 17:54:32,832 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.56
+2026-10-11 17:54:33,000 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.00
+2026-10-11 17:54:33,167 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.57
+2026-10-11 17:54:33,333 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.28
+2026-10-11 17:54:33,491 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.68
+2026-10-11 17:54:33,663 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.04
+2026-10-11 17:54:33,817 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.58
+2026-10-11 17:54:33,967 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.91
+2026-10-11 17:54:34,129 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.85
+2026-10-11 17:54:34,303 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.64
+2026-10-11 17:54:34,471 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.35
+2026-10-11 17:54:34,644 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.78
+2026-10-11 17:54:34,816 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.48
+2026-10-11 17:54:34,983 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.23
+2026-10-11 17:54:35,149 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.22
+2026-10-11 17:54:35,304 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.34
+2026-10-11 17:54:35,479 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.08
+2026-10-11 17:54:35,645 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.96
+2026-10-11 17:54:35,810 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.00
+2026-10-11 17:54:35,985 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.23
+2026-10-11 17:54:36,146 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.58
+2026-10-11 17:54:36,319 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.52
+2026-10-11 17:54:36,481 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.95
+2026-10-11 17:54:36,654 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.49
+2026-10-11 17:54:36,835 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.89
+2026-10-11 17:54:37,016 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.62
+2026-10-11 17:54:37,195 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.38
+2026-10-11 17:54:37,375 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.68
+2026-10-11 17:54:37,551 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.23
+2026-10-11 17:54:37,724 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.16
+2026-10-11 17:54:38,042 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.21
+2026-10-11 17:54:38,216 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.95
+2026-10-11 17:54:38,400 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.21
+2026-10-11 17:54:38,577 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.87
+2026-10-11 17:54:38,760 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.10
+2026-10-11 17:54:38,919 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.25
+2026-10-11 17:54:39,086 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.26
+2026-10-11 17:54:39,276 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.98
+2026-10-11 17:54:39,442 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.60
+2026-10-11 17:54:39,626 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.92
+2026-10-11 17:54:39,803 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.56
+2026-10-11 17:54:39,963 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.36
+2026-10-11 17:54:40,138 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.16
+2026-10-11 17:54:40,312 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.65
+2026-10-11 17:54:40,486 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.51
+2026-10-11 17:54:40,643 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.97
+2026-10-11 17:54:40,818 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.05
+2026-10-11 17:54:40,992 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 55.28
+2026-10-11 17:54:41,167 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.00
+2026-10-11 17:54:41,325 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.03
+2026-10-11 17:54:41,501 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.31
+2026-10-11 17:54:41,675 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.96
+2026-10-11 17:54:41,850 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.36
+2026-10-11 17:54:42,026 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.99
+2026-10-11 17:54:42,192 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.71
+2026-10-11 17:54:42,366 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.50
+2026-10-11 17:54:42,516 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.22
+2026-10-11 17:54:42,690 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.73
+2026-10-11 17:54:42,864 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.54
+2026-10-11 17:54:43,037 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.20
+2026-10-11 17:54:43,209 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.08
+2026-10-11 17:54:43,375 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.80
+2026-10-11 17:54:43,535 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.59
+2026-10-11 17:54:43,720 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.45
+2026-10-11 17:54:43,891 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.63
+2026-10-11 17:54:44,047 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.22
+2026-10-11 17:54:44,226 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.98
+2026-10-11 17:54:44,402 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.92
+2026-10-11 17:54:44,557 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.20
+2026-10-11 17:54:44,726 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.20
+2026-10-11 17:54:44,903 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.85
+2026-10-11 17:54:45,072 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.20
+2026-10-11 17:54:45,242 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.07
+2026-10-11 17:54:45,409 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.42
+2026-10-11 17:54:45,568 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.52
+2026-10-11 17:54:45,747 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.32
+2026-10-11 17:54:45,925 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.98
+2026-10-11 17:54:46,087 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.67
+2026-10-11 17:54:46,260 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.90
+2026-10-11 17:54:46,425 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.80
+2026-10-11 17:54:46,590 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.56
+2026-10-11 17:54:46,767 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.23
+2026-10-11 17:54:46,930 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.16
+2026-10-11 17:54:47,097 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 53.02
+2026-10-11 17:54:47,248 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.13
+2026-10-11 17:54:47,421 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.28
+2026-10-11 17:54:47,609 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.52
+2026-10-11 17:54:47,760 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.49
+2026-10-11 17:54:47,933 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.41
+2026-10-11 17:54:48,102 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.70
+2026-10-11 17:54:48,275 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.79
+2026-10-11 17:54:48,450 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.03
+2026-10-11 17:54:48,609 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.25
+2026-10-11 17:54:48,792 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.71
+2026-10-11 17:54:48,951 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.71
+2026-10-11 17:54:49,139 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.16
+2026-10-11 17:54:49,306 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.37
+2026-10-11 17:54:49,469 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.07
+2026-10-11 17:54:49,652 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.67
+2026-10-11 17:54:49,826 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.58
+2026-10-11 17:54:49,999 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.43
+2026-10-11 17:54:50,153 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.31
+2026-10-11 17:54:50,342 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.23
+2026-10-11 17:54:50,507 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.34
+2026-10-11 17:54:50,681 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.07
+2026-10-11 17:54:50,842 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.01
+2026-10-11 17:54:51,003 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 69.99
+2026-10-11 17:54:51,188 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.69
+2026-10-11 17:54:51,354 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.67
+2026-10-11 17:54:51,535 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.57
+2026-10-11 17:54:51,707 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.48
+2026-10-11 17:54:51,867 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.09
+2026-10-11 17:54:52,048 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.29
+2026-10-11 17:54:52,210 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.25
+2026-10-11 17:54:52,384 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.99
+2026-10-11 17:54:52,556 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.01
+2026-10-11 17:54:52,735 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.65
+2026-10-11 17:54:52,909 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.83
+2026-10-11 17:54:53,064 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.89
+2026-10-11 17:54:53,238 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 57.15
+2026-10-11 17:54:53,397 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.15
+2026-10-11 17:54:53,572 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.50
+2026-10-11 17:54:53,745 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.25
+2026-10-11 17:54:53,925 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.75
+2026-10-11 17:54:54,086 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.78
+2026-10-11 17:54:54,255 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.89
+2026-10-11 17:54:54,417 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.69
+2026-10-11 17:54:54,591 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.54
+2026-10-11 17:54:54,760 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.09
+2026-10-11 17:54:54,937 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.28
+2026-10-11 17:54:55,102 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.31
+2026-10-11 17:54:55,268 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.44
+2026-10-11 17:54:55,432 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.52
+2026-10-11 17:54:55,591 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.41
+2026-10-11 17:54:55,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.34
+2026-10-11 17:54:55,924 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.66
+2026-10-11 17:54:56,082 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.23
+2026-10-11 17:54:56,272 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.64
+2026-10-11 17:54:56,432 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.68
+2026-10-11 17:54:56,586 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.39
+2026-10-11 17:54:56,747 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.05
+2026-10-11 17:54:56,906 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.86
+2026-10-11 17:54:57,080 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.43
+2026-10-11 17:54:57,254 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.32
+2026-10-11 17:54:57,427 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.43
+2026-10-11 17:54:57,585 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.92
+2026-10-11 17:54:57,744 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.57
+2026-10-11 17:54:57,903 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.18
+2026-10-11 17:54:58,076 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.63
+2026-10-11 17:54:58,250 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.57
+2026-10-11 17:54:58,408 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.23
+2026-10-11 17:54:58,583 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.11
+2026-10-11 17:54:58,757 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.42
+2026-10-11 17:54:58,925 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 62.74
+2026-10-11 17:54:59,089 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.80
+2026-10-11 17:54:59,248 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.07
+2026-10-11 17:54:59,406 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.44
+2026-10-11 17:54:59,565 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.57
+2026-10-11 17:54:59,738 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.71
+2026-10-11 17:54:59,896 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.35
+2026-10-11 17:55:00,070 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.42
+2026-10-11 17:55:00,244 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.50
+2026-10-11 17:55:00,402 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.26
+2026-10-11 17:55:00,567 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.82
+2026-10-11 17:55:00,751 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.37
+2026-10-11 17:55:00,929 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 54.50
+2026-10-11 17:55:01,102 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.01
+2026-10-11 17:55:01,267 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.44
+2026-10-11 17:55:01,446 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.80
+2026-10-11 17:55:01,617 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.33
+2026-10-11 17:55:01,776 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.27
+2026-10-11 17:55:01,935 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.83
+2026-10-11 17:55:02,094 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.09
+2026-10-11 17:55:02,268 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.73
+2026-10-11 17:55:02,442 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.16
+2026-10-11 17:55:02,603 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.37
+2026-10-11 17:55:02,793 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.57
+2026-10-11 17:55:02,965 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.94
+2026-10-11 17:55:03,126 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.11
+2026-10-11 17:55:03,301 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.91
+2026-10-11 17:55:03,469 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.06
+2026-10-11 17:55:03,640 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.05
+2026-10-11 17:55:03,803 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.09
+2026-10-11 17:55:03,984 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.09
+2026-10-11 17:55:04,117 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.29
+2026-10-11 17:55:04,291 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.01
+2026-10-11 17:55:04,471 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.66
+2026-10-11 17:55:04,639 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.54
+2026-10-11 17:55:04,811 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.33
+2026-10-11 17:55:04,959 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.20
+2026-10-11 17:55:05,124 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.55
+2026-10-11 17:55:05,291 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.23
+2026-10-11 17:55:05,457 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.66
+2026-10-11 17:55:05,624 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.43
+2026-10-11 17:55:05,793 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.78
+2026-10-11 17:55:05,955 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.11
+2026-10-11 17:55:06,122 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.74
+2026-10-11 17:55:06,289 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.52
+2026-10-11 17:55:06,453 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.76
+2026-10-11 17:55:06,620 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.11
+2026-10-11 17:55:06,792 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 45.73
+2026-10-11 17:55:06,956 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.05
+2026-10-11 17:55:07,123 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.06
+2026-10-11 17:55:07,296 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.64
+2026-10-11 17:55:07,469 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.18
+2026-10-11 17:55:07,632 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.02
+2026-10-11 17:55:07,799 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.21
+2026-10-11 17:55:07,961 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.83
+2026-10-11 17:55:08,128 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.34
+2026-10-11 17:55:08,299 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.65
+2026-10-11 17:55:08,467 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.05
+2026-10-11 17:55:08,634 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.94
+2026-10-11 17:55:08,805 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.36
+2026-10-11 17:55:08,973 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.60
+2026-10-11 17:55:09,134 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.36
+2026-10-11 17:55:09,308 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.66
+2026-10-11 17:55:09,480 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.17
+2026-10-11 17:55:09,642 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.16
+2026-10-11 17:55:09,810 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.09
+2026-10-11 17:55:09,970 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.46
+2026-10-11 17:55:10,142 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.78
+2026-10-11 17:55:10,313 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.69
+2026-10-11 17:55:10,496 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.76
+2026-10-11 17:55:10,667 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.37
+2026-10-11 17:55:10,846 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.85
+2026-10-11 17:55:11,026 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.57
+2026-10-11 17:55:11,196 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.90
+2026-10-11 17:55:11,352 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.56
+2026-10-11 17:55:11,526 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.04
+2026-10-11 17:55:11,860 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.45
+2026-10-11 17:55:12,028 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.04
+2026-10-11 17:55:12,216 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.90
+2026-10-11 17:55:12,386 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.13
+2026-10-11 17:55:12,558 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.57
+2026-10-11 17:55:12,736 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.80
+2026-10-11 17:55:12,902 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.56
+2026-10-11 17:55:13,065 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.46
+2026-10-11 17:55:13,230 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.85
+2026-10-11 17:55:13,398 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.03
+2026-10-11 17:55:13,577 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.57
+2026-10-11 17:55:13,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.39
+2026-10-11 17:55:13,913 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.71
+2026-10-11 17:55:14,069 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.48
+2026-10-11 17:55:14,235 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.33
+2026-10-11 17:55:14,403 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.77
+2026-10-11 17:55:14,570 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.70
+2026-10-11 17:55:14,734 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.33
+2026-10-11 17:55:14,907 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.89
+2026-10-11 17:55:15,077 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.67
+2026-10-11 17:55:15,240 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 64.30
+2026-10-11 17:55:15,405 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.87
+2026-10-11 17:55:15,575 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.05
+2026-10-11 17:55:15,738 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.11
+2026-10-11 17:55:15,902 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.30
+2026-10-11 17:55:16,075 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.14
+2026-10-11 17:55:16,232 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.60
+2026-10-11 17:55:16,390 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.20
+2026-10-11 17:55:16,546 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.91
+2026-10-11 17:55:16,714 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.47
+2026-10-11 17:55:16,879 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.04
+2026-10-11 17:55:17,048 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.91
+2026-10-11 17:55:17,215 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.83
+2026-10-11 17:55:17,373 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.54
+2026-10-11 17:55:17,543 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.38
+2026-10-11 17:55:17,814 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.10
+2026-10-11 17:55:18,258 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.92
+2026-10-11 17:55:18,418 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.29
+2026-10-11 17:55:18,580 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.46
+2026-10-11 17:55:18,732 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.98
+2026-10-11 17:55:18,897 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.82
+2026-10-11 17:55:19,059 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.55
+2026-10-11 17:55:19,231 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.23
+2026-10-11 17:55:19,397 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.08
+2026-10-11 17:55:19,564 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.64
+2026-10-11 17:55:19,726 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.25
+2026-10-11 17:55:19,888 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.63
+2026-10-11 17:55:20,055 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.39
+2026-10-11 17:55:20,221 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.20
+2026-10-11 17:55:20,389 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.03
+2026-10-11 17:55:20,558 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.64
+2026-10-11 17:55:20,723 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.06
+2026-10-11 17:55:20,895 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.93
+2026-10-11 17:55:21,059 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.12
+2026-10-11 17:55:21,217 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.07
+2026-10-11 17:55:21,374 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.47
+2026-10-11 17:55:21,540 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.13
+2026-10-11 17:55:21,698 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.02
+2026-10-11 17:55:21,865 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.83
+2026-10-11 17:55:22,030 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.50
+2026-10-11 17:55:22,201 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.58
+2026-10-11 17:55:22,355 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.57
+2026-10-11 17:55:22,520 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.80
+2026-10-11 17:55:22,683 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.33
+2026-10-11 17:55:22,851 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.11
+2026-10-11 17:55:23,015 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.75
+2026-10-11 17:55:23,181 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.18
+2026-10-11 17:55:23,347 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.02
+2026-10-11 17:55:23,509 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.78
+2026-10-11 17:55:23,667 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.06
+2026-10-11 17:55:23,839 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.08
+2026-10-11 17:55:24,002 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.58
+2026-10-11 17:55:24,155 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.65
+2026-10-11 17:55:24,322 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.10
+2026-10-11 17:55:24,479 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.43
+2026-10-11 17:55:24,647 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.10
+2026-10-11 17:55:24,818 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.79
+2026-10-11 17:55:24,983 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.95
+2026-10-11 17:55:25,137 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 195.25
+2026-10-11 17:55:25,306 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.08
+2026-10-11 17:55:25,462 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.85
+2026-10-11 17:55:25,625 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.19
+2026-10-11 17:55:25,794 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.19
+2026-10-11 17:55:25,949 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.92
+2026-10-11 17:55:26,118 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.58
+2026-10-11 17:55:26,286 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 114.88
+2026-10-11 17:55:26,451 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.13
+2026-10-11 17:55:26,613 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.90
+2026-10-11 17:55:26,781 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.66
+2026-10-11 17:55:26,945 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.34
+2026-10-11 17:55:27,103 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.34
+2026-10-11 17:55:27,276 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.86
+2026-10-11 17:55:27,443 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.66
+2026-10-11 17:55:27,605 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 73.51
+2026-10-11 17:55:27,769 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.81
+2026-10-11 17:55:27,933 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.33
+2026-10-11 17:55:28,101 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.89
+2026-10-11 17:55:28,265 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.16
+2026-10-11 17:55:28,430 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.54
+2026-10-11 17:55:28,589 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.17
+2026-10-11 17:55:28,751 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.28
+2026-10-11 17:55:28,916 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.96
+2026-10-11 17:55:29,085 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.52
+2026-10-11 17:55:29,249 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.77
+2026-10-11 17:55:29,408 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.56
+2026-10-11 17:55:29,570 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.51
+2026-10-11 17:55:29,734 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.93
+2026-10-11 17:55:29,887 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.13
+2026-10-11 17:55:30,060 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.80
+2026-10-11 17:55:30,212 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.46
+2026-10-11 17:55:30,379 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.35
+2026-10-11 17:55:30,542 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.08
+2026-10-11 17:55:30,707 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.66
+2026-10-11 17:55:30,868 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.18
+2026-10-11 17:55:31,035 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.40
+2026-10-11 17:55:31,204 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.27
+2026-10-11 17:55:31,365 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.01
+2026-10-11 17:55:31,534 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.39
+2026-10-11 17:55:31,700 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.68
+2026-10-11 17:55:31,856 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.17
+2026-10-11 17:55:32,026 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.25
+2026-10-11 17:55:32,180 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.06
+2026-10-11 17:55:32,347 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.31
+2026-10-11 17:55:32,516 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.53
+2026-10-11 17:55:32,684 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.09
+2026-10-11 17:55:32,840 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.16
+2026-10-11 17:55:33,005 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.46
+2026-10-11 17:55:33,168 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.44
+2026-10-11 17:55:33,324 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.63
+2026-10-11 17:55:33,490 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.90
+2026-10-11 17:55:33,658 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.61
+2026-10-11 17:55:33,817 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.75
+2026-10-11 17:55:33,987 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.01
+2026-10-11 17:55:34,149 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.23
+2026-10-11 17:55:34,308 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 64.31
+2026-10-11 17:55:34,474 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.99
+2026-10-11 17:55:34,638 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.93
+2026-10-11 17:55:34,797 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.44
+2026-10-11 17:55:34,958 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.25
+2026-10-11 17:55:35,107 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.69
+2026-10-11 17:55:35,277 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.33
+2026-10-11 17:55:35,444 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.80
+2026-10-11 17:55:35,610 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.20
+2026-10-11 17:55:35,774 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.23
+2026-10-11 17:55:35,937 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.68
+2026-10-11 17:55:36,102 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.27
+2026-10-11 17:55:36,268 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.98
+2026-10-11 17:55:36,430 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.09
+2026-10-11 17:55:36,597 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.62
+2026-10-11 17:55:36,758 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.58
+2026-10-11 17:55:36,923 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.47
+2026-10-11 17:55:37,087 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.92
+2026-10-11 17:55:37,249 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.19
+2026-10-11 17:55:37,417 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.21
+2026-10-11 17:55:37,580 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.66
+2026-10-11 17:55:37,730 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.47
+2026-10-11 17:55:37,897 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.36
+2026-10-11 17:55:38,061 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.82
+2026-10-11 17:55:38,226 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.42
+2026-10-11 17:55:38,383 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.81
+2026-10-11 17:55:38,549 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.98
+2026-10-11 17:55:38,705 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.13
+2026-10-11 17:55:38,871 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.16
+2026-10-11 17:55:39,039 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.01
+2026-10-11 17:55:39,204 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.98
+2026-10-11 17:55:39,364 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.21
+2026-10-11 17:55:39,535 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.34
+2026-10-11 17:55:39,691 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.24
+2026-10-11 17:55:39,860 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.80
+2026-10-11 17:55:40,184 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.30
+2026-10-11 17:55:40,354 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.52
+2026-10-11 17:55:40,519 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.32
+2026-10-11 17:55:40,675 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.25
+2026-10-11 17:55:40,847 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.78
+2026-10-11 17:55:41,001 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.88
+2026-10-11 17:55:41,158 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.34
+2026-10-11 17:55:41,327 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.19
+2026-10-11 17:55:41,492 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.97
+2026-10-11 17:55:41,650 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.60
+2026-10-11 17:55:41,822 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.22
+2026-10-11 17:55:41,977 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.02
+2026-10-11 17:55:42,143 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 53.61
+2026-10-11 17:55:42,307 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.96
+2026-10-11 17:55:42,474 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.99
+2026-10-11 17:55:42,637 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 167.90
+2026-10-11 17:55:42,954 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.46
+2026-10-11 17:55:43,121 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 72.48
+2026-10-11 17:55:43,288 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.50
+2026-10-11 17:55:43,454 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.85
+2026-10-11 17:55:43,613 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.99
+2026-10-11 17:55:43,777 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.30
+2026-10-11 17:55:43,942 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.68
+2026-10-11 17:55:44,103 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.02
+2026-10-11 17:55:44,268 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.25
+2026-10-11 17:55:44,433 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.85
+2026-10-11 17:55:44,593 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.77
+2026-10-11 17:55:44,765 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.39
+2026-10-11 17:55:44,934 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.83
+2026-10-11 17:55:45,103 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 105.38
+2026-10-11 17:55:45,276 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.09
+2026-10-11 17:55:45,445 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.43
+2026-10-11 17:55:45,606 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.25
+2026-10-11 17:55:45,773 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.30
+2026-10-11 17:55:45,929 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.26
+2026-10-11 17:55:46,097 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.31
+2026-10-11 17:55:46,263 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.71
+2026-10-11 17:55:46,429 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.17
+2026-10-11 17:55:46,601 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.31
+2026-10-11 17:55:46,766 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.05
+2026-10-11 17:55:46,934 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.70
+2026-10-11 17:55:47,101 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 55.92
+2026-10-11 17:55:47,263 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.46
+2026-10-11 17:55:47,436 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.10
+2026-10-11 17:55:47,602 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.74
+2026-10-11 17:55:47,766 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.13
+2026-10-11 17:55:47,924 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.12
+2026-10-11 17:55:48,091 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.15
+2026-10-11 17:55:48,259 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.05
+2026-10-11 17:55:48,424 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.23
+2026-10-11 17:55:48,584 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.67
+2026-10-11 17:55:48,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.70
+2026-10-11 17:55:48,916 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.09
+2026-10-11 17:55:49,072 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.88
+2026-10-11 17:55:49,245 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.12
+2026-10-11 17:55:49,404 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.75
+2026-10-11 17:55:49,558 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.76
+2026-10-11 17:55:49,736 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.01
+2026-10-11 17:55:49,895 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.16
+2026-10-11 17:55:50,054 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.94
+2026-10-11 17:55:50,227 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.32
+2026-10-11 17:55:50,394 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.32
+2026-10-11 17:55:50,551 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.68
+2026-10-11 17:55:50,716 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.56
+2026-10-11 17:55:50,880 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.42
+2026-10-11 17:55:51,046 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.86
+2026-10-11 17:55:51,209 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.80
+2026-10-11 17:55:51,380 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.53
+2026-10-11 17:55:51,539 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.20
+2026-10-11 17:55:51,706 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.04
+2026-10-11 17:55:51,870 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.46
+2026-10-11 17:55:52,035 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.99
+2026-10-11 17:55:52,189 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.72
+2026-10-11 17:55:52,354 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.08
+2026-10-11 17:55:52,523 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.39
+2026-10-11 17:55:52,688 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.06
+2026-10-11 17:55:52,845 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.90
+2026-10-11 17:55:53,017 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.00
+2026-10-11 17:55:53,185 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.02
+2026-10-11 17:55:53,344 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.32
+2026-10-11 17:55:53,510 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.31
+2026-10-11 17:55:53,676 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.31
+2026-10-11 17:55:53,835 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.09
+2026-10-11 17:55:53,999 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.67
+2026-10-11 17:55:54,151 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.43
+2026-10-11 17:55:54,318 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.58
+2026-10-11 17:55:54,487 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.90
+2026-10-11 17:55:54,657 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.71
+2026-10-11 17:55:54,822 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.24
+2026-10-11 17:55:54,990 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.95
+2026-10-11 17:55:55,153 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.17
+2026-10-11 17:55:55,325 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.31
+2026-10-11 17:55:55,488 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.29
+2026-10-11 17:55:55,645 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.38
+2026-10-11 17:55:55,814 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.24
+2026-10-11 17:55:55,980 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.26
+2026-10-11 17:55:56,134 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.92
+2026-10-11 17:55:56,301 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.70
+2026-10-11 17:55:56,470 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.99
+2026-10-11 17:55:56,633 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.83
+2026-10-11 17:55:56,794 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 88.43
+2026-10-11 17:55:56,958 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.21
+2026-10-11 17:55:57,112 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.68
+2026-10-11 17:55:57,278 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.67
+2026-10-11 17:55:57,447 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.01
+2026-10-11 17:55:57,612 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.57
+2026-10-11 17:55:57,778 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.19
+2026-10-11 17:55:57,929 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.71
+2026-10-11 17:55:58,097 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.81
+2026-10-11 17:55:58,269 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.54
+2026-10-11 17:55:58,433 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.94
+2026-10-11 17:55:58,590 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 144.24
+2026-10-11 17:55:58,760 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.13
+2026-10-11 17:55:58,912 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.99
+2026-10-11 17:55:59,078 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.26
+2026-10-11 17:55:59,249 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.36
+2026-10-11 17:55:59,581 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 909.85
+2026-10-11 17:55:59,754 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.57
+2026-10-11 17:55:59,917 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.97
+2026-10-11 17:56:00,084 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.42
+2026-10-11 17:56:00,251 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.27
+2026-10-11 17:56:00,405 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.74
+2026-10-11 17:56:00,570 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.59
+2026-10-11 17:56:00,734 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.95
+2026-10-11 17:56:00,901 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.44
+2026-10-11 17:56:01,067 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 61.14
+2026-10-11 17:56:01,235 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.44
+2026-10-11 17:56:01,397 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.10
+2026-10-11 17:56:01,565 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.34
+2026-10-11 17:56:01,720 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.86
+2026-10-11 17:56:01,885 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.75
+2026-10-11 17:56:02,052 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.43
+2026-10-11 17:56:02,221 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.27
+2026-10-11 17:56:02,387 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.41
+2026-10-11 17:56:02,546 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.30
+2026-10-11 17:56:02,711 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.87
+2026-10-11 17:56:02,877 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.18
+2026-10-11 17:56:03,041 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.17
+2026-10-11 17:56:03,365 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.83
+2026-10-11 17:56:03,530 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.30
+2026-10-11 17:56:03,693 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.22
+2026-10-11 17:56:03,860 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.02
+2026-10-11 17:56:04,025 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.57
+2026-10-11 17:56:04,188 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.05
+2026-10-11 17:56:04,344 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.63
+2026-10-11 17:56:04,510 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.88
+2026-10-11 17:56:04,673 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.11
+2026-10-11 17:56:04,840 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.82
+2026-10-11 17:56:05,003 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 55.65
+2026-10-11 17:56:05,167 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.06
+2026-10-11 17:56:05,335 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.17
+2026-10-11 17:56:05,506 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.92
+2026-10-11 17:56:05,668 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.81
+2026-10-11 17:56:05,834 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.74
+2026-10-11 17:56:05,998 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.04
+2026-10-11 17:56:06,150 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.59
+2026-10-11 17:56:06,320 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.93
+2026-10-11 17:56:06,477 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.32
+2026-10-11 17:56:06,637 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.44
+2026-10-11 17:56:06,808 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.13
+2026-10-11 17:56:06,972 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.18
+2026-10-11 17:56:07,127 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.61
+2026-10-11 17:56:07,294 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.21
+2026-10-11 17:56:07,465 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.54
+2026-10-11 17:56:07,626 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.92
+2026-10-11 17:56:07,793 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.38
+2026-10-11 17:56:07,942 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.02
+2026-10-11 17:56:08,106 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.32
+2026-10-11 17:56:08,274 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.55
+2026-10-11 17:56:08,441 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.09
+2026-10-11 17:56:08,608 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 94.19
+2026-10-11 17:56:08,777 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.34
+2026-10-11 17:56:08,938 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.24
+2026-10-11 17:56:09,103 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.58
+2026-10-11 17:56:09,270 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.39
+2026-10-11 17:56:09,436 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.67
+2026-10-11 17:56:09,602 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.94
+2026-10-11 17:56:09,767 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.20
+2026-10-11 17:56:09,935 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.26
+2026-10-11 17:56:10,100 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.36
+2026-10-11 17:56:10,266 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.72
+2026-10-11 17:56:10,433 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.09
+2026-10-11 17:56:10,596 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.14
+2026-10-11 17:56:10,761 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.25
+2026-10-11 17:56:10,922 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.90
+2026-10-11 17:56:11,092 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.45
+2026-10-11 17:56:11,257 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.64
+2026-10-11 17:56:11,425 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 96.02
+2026-10-11 17:56:11,583 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.53
+2026-10-11 17:56:11,748 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.68
+2026-10-11 17:56:11,915 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.56
+2026-10-11 17:56:12,070 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.86
+2026-10-11 17:56:12,230 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.01
+2026-10-11 17:56:12,396 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.65
+2026-10-11 17:56:12,558 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.42
+2026-10-11 17:56:12,710 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.26
+2026-10-11 17:56:12,870 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.00
+2026-10-11 17:56:13,046 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.49
+2026-10-11 17:56:13,211 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.30
+2026-10-11 17:56:13,379 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.78
+2026-10-11 17:56:13,545 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.60
+2026-10-11 17:56:13,702 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.04
+2026-10-11 17:56:13,870 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.82
+2026-10-11 17:56:14,037 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.89
+2026-10-11 17:56:14,197 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.02
+2026-10-11 17:56:14,369 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.55
+2026-10-11 17:56:14,536 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.49
+2026-10-11 17:56:14,700 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.77
+2026-10-11 17:56:14,871 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.89
+2026-10-11 17:56:15,034 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.98
+2026-10-11 17:56:15,202 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.16
+2026-10-11 17:56:15,368 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.21
+2026-10-11 17:56:15,521 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.55
+2026-10-11 17:56:15,692 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.26
+2026-10-11 17:56:15,845 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.02
+2026-10-11 17:56:16,013 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.66
+2026-10-11 17:56:16,184 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.35
+2026-10-11 17:56:16,347 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.97
+2026-10-11 17:56:16,505 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.32
+2026-10-11 17:56:16,674 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.73
+2026-10-11 17:56:16,824 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.29
+2026-10-11 17:56:16,993 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.72
+2026-10-11 17:56:17,166 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.79
+2026-10-11 17:56:17,334 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.41
+2026-10-11 17:56:17,493 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.90
+2026-10-11 17:56:17,663 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.25
+2026-10-11 17:56:17,816 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.54
+2026-10-11 17:56:17,978 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.46
+2026-10-11 17:56:18,147 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.61
+2026-10-11 17:56:18,318 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.70
+2026-10-11 17:56:18,480 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.67
+2026-10-11 17:56:18,637 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.85
+2026-10-11 17:56:18,800 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.52
+2026-10-11 17:56:18,953 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.16
+2026-10-11 17:56:19,121 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.57
+2026-10-11 17:56:19,281 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.79
+2026-10-11 17:56:19,438 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.86
+2026-10-11 17:56:19,612 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.91
+2026-10-11 17:56:19,768 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.49
+2026-10-11 17:56:19,935 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.74
+2026-10-11 17:56:20,102 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.97
+2026-10-11 17:56:20,271 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.20
+2026-10-11 17:56:20,435 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.86
+2026-10-11 17:56:20,599 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.74
+2026-10-11 17:56:20,768 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.05
+2026-10-11 17:56:20,942 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.45
+2026-10-11 17:56:21,114 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.30
+2026-10-11 17:56:21,278 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 65.72
+2026-10-11 17:56:21,447 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.58
+2026-10-11 17:56:21,613 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.83
+2026-10-11 17:56:21,781 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.33
+2026-10-11 17:56:21,947 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.96
+2026-10-11 17:56:22,116 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.27
+2026-10-11 17:56:22,282 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.07
+2026-10-11 17:56:22,450 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.92
+2026-10-11 17:56:22,616 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.89
+2026-10-11 17:56:22,781 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.25
+2026-10-11 17:56:22,932 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.80
+2026-10-11 17:56:23,097 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.70
+2026-10-11 17:56:23,268 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.71
+2026-10-11 17:56:23,433 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.57
+2026-10-11 17:56:23,602 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 71.80
+2026-10-11 17:56:23,767 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.28
+2026-10-11 17:56:23,931 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.38
+2026-10-11 17:56:24,096 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.25
+2026-10-11 17:56:24,263 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 52.75
+2026-10-11 17:56:24,426 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.93
+2026-10-11 17:56:24,591 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.27
+2026-10-11 17:56:24,753 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.90
+2026-10-11 17:56:24,917 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.08
+2026-10-11 17:56:25,087 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.31
+2026-10-11 17:56:25,253 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.93
+2026-10-11 17:56:25,419 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.06
+2026-10-11 17:56:25,590 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.35
+2026-10-11 17:56:25,755 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.72
+2026-10-11 17:56:25,920 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.17
+2026-10-11 17:56:26,072 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.55
+2026-10-11 17:56:26,235 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.61
+2026-10-11 17:56:26,407 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.99
+2026-10-11 17:56:26,572 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.55
+2026-10-11 17:56:26,722 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.12
+2026-10-11 17:56:26,889 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.05
+2026-10-11 17:56:27,053 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 54.46
+2026-10-11 17:56:27,213 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.02
+2026-10-11 17:56:27,372 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.48
+2026-10-11 17:56:27,542 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.47
+2026-10-11 17:56:27,702 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.30
+2026-10-11 17:56:27,871 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.42
+2026-10-11 17:56:28,039 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.54
+2026-10-11 17:56:28,205 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.22
+2026-10-11 17:56:28,374 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.24
+2026-10-11 17:56:28,537 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.96
+2026-10-11 17:56:28,703 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.35
+2026-10-11 17:56:28,867 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.67
+2026-10-11 17:56:29,029 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.05
+2026-10-11 17:56:29,198 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.12
+2026-10-11 17:56:29,367 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.30
+2026-10-11 17:56:29,524 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.94
+2026-10-11 17:56:29,694 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.35
+2026-10-11 17:56:29,859 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.90
+2026-10-11 17:56:30,019 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.04
+2026-10-11 17:56:30,188 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.96
+2026-10-11 17:56:30,342 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.29
+2026-10-11 17:56:30,504 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.02
+2026-10-11 17:56:30,678 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.18
+2026-10-11 17:56:30,846 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.20
+2026-10-11 17:56:31,186 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.01
+2026-10-11 17:56:31,349 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.92
+2026-10-11 17:56:31,522 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.18
+2026-10-11 17:56:31,687 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.45
+2026-10-11 17:56:31,855 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.79
+2026-10-11 17:56:32,018 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.07
+2026-10-11 17:56:32,173 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.52
+2026-10-11 17:56:32,339 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.45
+2026-10-11 17:56:32,510 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.43
+2026-10-11 17:56:32,677 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.23
+2026-10-11 17:56:32,843 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.31
+2026-10-11 17:56:33,007 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.18
+2026-10-11 17:56:33,172 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.51
+2026-10-11 17:56:33,337 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.25
+2026-10-11 17:56:33,505 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.32
+2026-10-11 17:56:33,674 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.59
+2026-10-11 17:56:33,840 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.01
+2026-10-11 17:56:34,008 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.44
+2026-10-11 17:56:34,174 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.16
+2026-10-11 17:56:34,336 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.97
+2026-10-11 17:56:34,504 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.44
+2026-10-11 17:56:34,670 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 54.68
+2026-10-11 17:56:34,834 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.47
+2026-10-11 17:56:34,997 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.47
+2026-10-11 17:56:35,151 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 45.47
+2026-10-11 17:56:35,319 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.65
+2026-10-11 17:56:35,488 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.21
+2026-10-11 17:56:35,660 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.25
+2026-10-11 17:56:35,823 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.77
+2026-10-11 17:56:35,989 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.61
+2026-10-11 17:56:36,154 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.20
+2026-10-11 17:56:36,309 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.83
+2026-10-11 17:56:36,479 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.04
+2026-10-11 17:56:36,643 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.81
+2026-10-11 17:56:36,802 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.73
+2026-10-11 17:56:36,974 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.16
+2026-10-11 17:56:37,139 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.36
+2026-10-11 17:56:37,308 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.93
+2026-10-11 17:56:37,478 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.73
+2026-10-11 17:56:37,646 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.65
+2026-10-11 17:56:37,813 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.03
+2026-10-11 17:56:37,967 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.36
+2026-10-11 17:56:38,133 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.31
+2026-10-11 17:56:38,303 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.63
+2026-10-11 17:56:38,469 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 149.06
+2026-10-11 17:56:38,628 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.62
+2026-10-11 17:56:38,794 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.95
+2026-10-11 17:56:38,960 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.43
+2026-10-11 17:56:39,125 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.33
+2026-10-11 17:56:39,286 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.82
+2026-10-11 17:56:39,450 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.17
+2026-10-11 17:56:39,617 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.96
+2026-10-11 17:56:39,785 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.61
+2026-10-11 17:56:39,934 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.32
+2026-10-11 17:56:40,096 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.24
+2026-10-11 17:56:40,267 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.69
+2026-10-11 17:56:40,432 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 118.65
+2026-10-11 17:56:40,599 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.61
+2026-10-11 17:56:40,765 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.85
+2026-10-11 17:56:40,926 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.62
+2026-10-11 17:56:41,089 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.47
+2026-10-11 17:56:41,256 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.12
+2026-10-11 17:56:41,422 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.65
+2026-10-11 17:56:41,589 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.69
+2026-10-11 17:56:41,759 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.37
+2026-10-11 17:56:41,925 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.70
+2026-10-11 17:56:42,091 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.97
+2026-10-11 17:56:42,256 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.10
+2026-10-11 17:56:42,425 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.29
+2026-10-11 17:56:42,587 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.25
+2026-10-11 17:56:42,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.03
+2026-10-11 17:56:42,918 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.94
+2026-10-11 17:56:43,084 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.34
+2026-10-11 17:56:43,242 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.15
+2026-10-11 17:56:43,410 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.55
+2026-10-11 17:56:43,568 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.69
+2026-10-11 17:56:43,731 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.08
+2026-10-11 17:56:43,901 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.18
+2026-10-11 17:56:44,068 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.20
+2026-10-11 17:56:44,228 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.05
+2026-10-11 17:56:44,392 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.24
+2026-10-11 17:56:44,555 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.09
+2026-10-11 17:56:44,713 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.57
+2026-10-11 17:56:44,877 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.40
+2026-10-11 17:56:45,042 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.57
+2026-10-11 17:56:45,202 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.24
+2026-10-11 17:56:45,371 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.66
+2026-10-11 17:56:45,517 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.55
+2026-10-11 17:56:45,685 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.50
+2026-10-11 17:56:45,855 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.22
+2026-10-11 17:56:46,020 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.20
+2026-10-11 17:56:46,180 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.98
+2026-10-11 17:56:46,351 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.27
+2026-10-11 17:56:46,500 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.36
+2026-10-11 17:56:46,665 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.65
+2026-10-11 17:56:46,831 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.80
+2026-10-11 17:56:46,998 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.51
+2026-10-11 17:56:47,161 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.99
+2026-10-11 17:56:47,325 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.03
+2026-10-11 17:56:47,488 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.73
+2026-10-11 17:56:47,647 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.64
+2026-10-11 17:56:47,820 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.71
+2026-10-11 17:56:47,986 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.46
+2026-10-11 17:56:48,138 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.84
+2026-10-11 17:56:48,309 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.09
+2026-10-11 17:56:48,475 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.35
+2026-10-11 17:56:48,643 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.04
+2026-10-11 17:56:48,806 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.84
+2026-10-11 17:56:48,971 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.76
+2026-10-11 17:56:49,125 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.19
+2026-10-11 17:56:49,293 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.36
+2026-10-11 17:56:49,459 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.51
+2026-10-11 17:56:49,628 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.13
+2026-10-11 17:56:49,790 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.02
+2026-10-11 17:56:49,947 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.05
+2026-10-11 17:56:50,114 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.24
+2026-10-11 17:56:50,282 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.09
+2026-10-11 17:56:50,448 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.69
+2026-10-11 17:56:50,620 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.28
+2026-10-11 17:56:50,785 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.80
+2026-10-11 17:56:50,937 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.39
+2026-10-11 17:56:51,103 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.00
+2026-10-11 17:56:51,257 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.15
+2026-10-11 17:56:51,424 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.55
+2026-10-11 17:56:51,600 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.64
+2026-10-11 17:56:51,766 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.02
+2026-10-11 17:56:51,919 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.66
+2026-10-11 17:56:52,088 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.61
+2026-10-11 17:56:52,242 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.00
+2026-10-11 17:56:52,401 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.41
+2026-10-11 17:56:52,569 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.43
+2026-10-11 17:56:52,732 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 64.44
+2026-10-11 17:56:52,901 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.45
+2026-10-11 17:56:53,071 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.58
+2026-10-11 17:56:53,238 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.58
+2026-10-11 17:56:53,402 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.37
+2026-10-11 17:56:53,572 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.57
+2026-10-11 17:56:53,736 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.55
+2026-10-11 17:56:53,907 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 59.59
+2026-10-11 17:56:54,060 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.38
+2026-10-11 17:56:54,220 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.13
+2026-10-11 17:56:54,386 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.85
+2026-10-11 17:56:54,555 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.94
+2026-10-11 17:56:54,722 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.15
+2026-10-11 17:56:54,888 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.60
+2026-10-11 17:56:55,053 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.50
+2026-10-11 17:56:55,216 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.62
+2026-10-11 17:56:55,380 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.67
+2026-10-11 17:56:55,535 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.50
+2026-10-11 17:56:55,694 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.95
+2026-10-11 17:56:55,866 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 98.85
+2026-10-11 17:56:56,032 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.58
+2026-10-11 17:56:56,194 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.60
+2026-10-11 17:56:56,362 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.92
+2026-10-11 17:56:56,529 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.95
+2026-10-11 17:56:56,692 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.18
+2026-10-11 17:56:56,852 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.16
+2026-10-11 17:56:57,016 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.71
+2026-10-11 17:56:57,181 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.46
+2026-10-11 17:56:57,340 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.32
+2026-10-11 17:56:57,509 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.62
+2026-10-11 17:56:57,673 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.78
+2026-10-11 17:56:57,846 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.97
+2026-10-11 17:56:58,010 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.32
+2026-10-11 17:56:58,168 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.36
+2026-10-11 17:56:58,332 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.20
+2026-10-11 17:56:58,489 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.95
+2026-10-11 17:56:58,655 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.41
+2026-10-11 17:56:58,823 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.70
+2026-10-11 17:56:58,988 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.06
+2026-10-11 17:56:59,149 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.68
+2026-10-11 17:56:59,310 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.81
+2026-10-11 17:56:59,467 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.74
+2026-10-11 17:56:59,641 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.00
+2026-10-11 17:56:59,798 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.62
+2026-10-11 17:56:59,968 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.25
+2026-10-11 17:57:00,130 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.88
+2026-10-11 17:57:00,295 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.86
+2026-10-11 17:57:00,455 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.11
+2026-10-11 17:57:00,625 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.59
+2026-10-11 17:57:00,782 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.47
+2026-10-11 17:57:00,928 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.62
+2026-10-11 17:57:01,091 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.20
+2026-10-11 17:57:01,261 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.25
+2026-10-11 17:57:01,428 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.14
+2026-10-11 17:57:01,595 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.37
+2026-10-11 17:57:01,767 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.05
+2026-10-11 17:57:01,934 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.91
+2026-10-11 17:57:02,099 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.16
+2026-10-11 17:57:02,263 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.29
+2026-10-11 17:57:02,428 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.80
+2026-10-11 17:57:02,589 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.47
+2026-10-11 17:57:02,761 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.85
+2026-10-11 17:57:02,926 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.97
+2026-10-11 17:57:03,096 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.52
+2026-10-11 17:57:03,261 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.30
+2026-10-11 17:57:03,425 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.22
+2026-10-11 17:57:03,580 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 57.71
+2026-10-11 17:57:03,734 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.65
+2026-10-11 17:57:03,909 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.08
+2026-10-11 17:57:04,075 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.56
+2026-10-11 17:57:04,232 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.78
+2026-10-11 17:57:04,405 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.23
+2026-10-11 17:57:04,561 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.17
+2026-10-11 17:57:04,727 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.68
+2026-10-11 17:57:04,895 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.53
+2026-10-11 17:57:05,062 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.25
+2026-10-11 17:57:05,223 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.28
+2026-10-11 17:57:05,383 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.18
+2026-10-11 17:57:05,549 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.14
+2026-10-11 17:57:05,710 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.12
+2026-10-11 17:57:05,880 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.28
+2026-10-11 17:57:06,049 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.88
+2026-10-11 17:57:06,216 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 69.95
+2026-10-11 17:57:06,381 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.20
+2026-10-11 17:57:06,542 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.32
+2026-10-11 17:57:06,714 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.65
+2026-10-11 17:57:06,878 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.03
+2026-10-11 17:57:07,038 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.40
+2026-10-11 17:57:07,206 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.46
+2026-10-11 17:57:07,373 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 152.69
+2026-10-11 17:57:07,535 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.53
+2026-10-11 17:57:07,701 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.32
+2026-10-11 17:57:07,869 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.26
+2026-10-11 17:57:08,040 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.30
+2026-10-11 17:57:08,203 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.08
+2026-10-11 17:57:08,369 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.11
+2026-10-11 17:57:08,535 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.91
+2026-10-11 17:57:08,700 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.20
+2026-10-11 17:57:08,857 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.56
+2026-10-11 17:57:09,030 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.19
+2026-10-11 17:57:09,194 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.18
+2026-10-11 17:57:09,350 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.44
+2026-10-11 17:57:09,514 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.50
+2026-10-11 17:57:09,680 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.24
+2026-10-11 17:57:09,844 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.90
+2026-10-11 17:57:10,014 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.39
+2026-10-11 17:57:10,182 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.33
+2026-10-11 17:57:10,341 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.54
+2026-10-11 17:57:10,506 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.31
+2026-10-11 17:57:10,661 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 45.73
+2026-10-11 17:57:10,835 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 58.25
+2026-10-11 17:57:10,989 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.85
+2026-10-11 17:57:11,159 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.14
+2026-10-11 17:57:11,327 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.74
+2026-10-11 17:57:11,492 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.89
+2026-10-11 17:57:11,657 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.16
+2026-10-11 17:57:11,818 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.34
+2026-10-11 17:57:11,986 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.21
+2026-10-11 17:57:12,139 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.66
+2026-10-11 17:57:12,313 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.44
+2026-10-11 17:57:12,478 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.73
+2026-10-11 17:57:12,644 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.52
+2026-10-11 17:57:12,804 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.65
+2026-10-11 17:57:12,972 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.35
+2026-10-11 17:57:13,136 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.27
+2026-10-11 17:57:13,302 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.29
+2026-10-11 17:57:13,463 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.03
+2026-10-11 17:57:13,628 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.05
+2026-10-11 17:57:13,787 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.22
+2026-10-11 17:57:13,957 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.57
+2026-10-11 17:57:14,116 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.40
+2026-10-11 17:57:14,285 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.93
+2026-10-11 17:57:14,449 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.10
+2026-10-11 17:57:14,614 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.71
+2026-10-11 17:57:14,778 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 65.50
+2026-10-11 17:57:14,940 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.49
+2026-10-11 17:57:15,106 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.44
+2026-10-11 17:57:15,276 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.61
+2026-10-11 17:57:15,434 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.01
+2026-10-11 17:57:15,607 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.77
+2026-10-11 17:57:15,775 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.98
+2026-10-11 17:57:15,940 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.19
+2026-10-11 17:57:16,105 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.18
+2026-10-11 17:57:16,271 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.70
+2026-10-11 17:57:16,439 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 80.76
+2026-10-11 17:57:16,596 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.32
+2026-10-11 17:57:16,756 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.82
+2026-10-11 17:57:16,918 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.28
+2026-10-11 17:57:17,082 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.08
+2026-10-11 17:57:17,249 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 49.46
+2026-10-11 17:57:17,412 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.21
+2026-10-11 17:57:17,579 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.31
+2026-10-11 17:57:17,725 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.70
+2026-10-11 17:57:17,891 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.86
+2026-10-11 17:57:18,065 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 175.87
+2026-10-11 17:57:18,234 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.04
+2026-10-11 17:57:18,399 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.29
+2026-10-11 17:57:18,569 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 41.35
+2026-10-11 17:57:18,724 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.45
+2026-10-11 17:57:18,890 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.14
+2026-10-11 17:57:19,056 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.75
+2026-10-11 17:57:19,214 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.21
+2026-10-11 17:57:19,380 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.92
+2026-10-11 17:57:19,548 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.23
+2026-10-11 17:57:19,708 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.84
+2026-10-11 17:57:19,874 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.22
+2026-10-11 17:57:20,041 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.13
+2026-10-11 17:57:20,208 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.98
+2026-10-11 17:57:20,379 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.18
+2026-10-11 17:57:20,545 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.00
+2026-10-11 17:57:20,718 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 48.50
+2026-10-11 17:57:20,889 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.77
+2026-10-11 17:57:21,065 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.07
+2026-10-11 17:57:21,230 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.01
+2026-10-11 17:57:21,394 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.60
+2026-10-11 17:57:21,558 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.60
+2026-10-11 17:57:21,721 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.21
+2026-10-11 17:57:21,886 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.30
+2026-10-11 17:57:22,060 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.31
+2026-10-11 17:57:22,225 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.33
+2026-10-11 17:57:22,393 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.48
+2026-10-11 17:57:22,558 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 36.31
+2026-10-11 17:57:22,709 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.91
+2026-10-11 17:57:22,879 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.75
+2026-10-11 17:57:23,033 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.08
+2026-10-11 17:57:23,196 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 50.66
+2026-10-11 17:57:23,364 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.87
+2026-10-11 17:57:23,528 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 117.96
+2026-10-11 17:57:23,685 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.57
+2026-10-11 17:57:23,854 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.07
+2026-10-11 17:57:24,019 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 34.36
+2026-10-11 17:57:24,182 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.67
+2026-10-11 17:57:24,338 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.04
+2026-10-11 17:57:24,506 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.24
+2026-10-11 17:57:24,664 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.95
+2026-10-11 17:57:24,838 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 100.49
+2026-10-11 17:57:24,988 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.98
+2026-10-11 17:57:25,158 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.44
+2026-10-11 17:57:25,331 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.80
+2026-10-11 17:57:25,494 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.95
+2026-10-11 17:57:25,652 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.92
+2026-10-11 17:57:25,822 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.56
+2026-10-11 17:57:25,978 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.33
+2026-10-11 17:57:26,147 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.78
+2026-10-11 17:57:26,318 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.15
+2026-10-11 17:57:26,486 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.67
+2026-10-11 17:57:26,652 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.11
+2026-10-11 17:57:26,807 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.26
+2026-10-11 17:57:26,971 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 35.38
+2026-10-11 17:57:27,131 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.66
+2026-10-11 17:57:27,296 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.09
+2026-10-11 17:57:27,463 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.58
+2026-10-11 17:57:27,630 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.81
+2026-10-11 17:57:27,799 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.68
+2026-10-11 17:57:27,965 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.06
+2026-10-11 17:57:28,124 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.77
+2026-10-11 17:57:28,288 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.26
+2026-10-11 17:57:28,448 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.94
+2026-10-11 17:57:28,619 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.49
+2026-10-11 17:57:28,778 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.71
+2026-10-11 17:57:28,928 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.83
+2026-10-11 17:57:29,097 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.50
+2026-10-11 17:57:29,270 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.96
+2026-10-11 17:57:29,428 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.23
+2026-10-11 17:57:29,597 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.03
+2026-10-11 17:57:29,754 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.49
+2026-10-11 17:57:29,906 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.77
+2026-10-11 17:57:30,082 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.55
+2026-10-11 17:57:30,252 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.38
+2026-10-11 17:57:30,411 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.67
+2026-10-11 17:57:30,577 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 31.84
+2026-10-11 17:57:30,745 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.16
+2026-10-11 17:57:30,909 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.92
+2026-10-11 17:57:31,076 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.30
+2026-10-11 17:57:31,244 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.50
+2026-10-11 17:57:31,411 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.10
+2026-10-11 17:57:31,574 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.12
+2026-10-11 17:57:31,738 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.59
+2026-10-11 17:57:31,911 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.70
+2026-10-11 17:57:32,081 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.10
+2026-10-11 17:57:32,249 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.86
+2026-10-11 17:57:32,415 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.35
+2026-10-11 17:57:32,577 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 46.84
+2026-10-11 17:57:32,748 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.71
+2026-10-11 17:57:32,910 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.91
+2026-10-11 17:57:33,067 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.86
+2026-10-11 17:57:33,237 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.91
+2026-10-11 17:57:33,391 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.90
+2026-10-11 17:57:33,559 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.81
+2026-10-11 17:57:33,734 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.55
+2026-10-11 17:57:33,898 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 69.18
+2026-10-11 17:57:34,067 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.80
+2026-10-11 17:57:34,232 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.27
+2026-10-11 17:57:34,395 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.96
+2026-10-11 17:57:34,550 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 40.77
+2026-10-11 17:57:34,717 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.45
+2026-10-11 17:57:34,872 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.55
+2026-10-11 17:57:35,039 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.01
+2026-10-11 17:57:35,210 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.41
+2026-10-11 17:57:35,376 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 54.22
+2026-10-11 17:57:35,539 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.79
+2026-10-11 17:57:35,710 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.18
+2026-10-11 17:57:35,874 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 37.51
+2026-10-11 17:57:36,042 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.33
+2026-10-11 17:57:36,211 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 38.51
+2026-10-11 17:57:36,382 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.35
+2026-10-11 17:57:36,547 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.72
+2026-10-11 17:57:36,698 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.88
+2026-10-11 17:57:36,865 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.95
+2026-10-11 17:57:37,029 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.67
+2026-10-11 17:57:37,194 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.91
+2026-10-11 17:57:37,357 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.64
+2026-10-11 17:57:37,525 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.73
+2026-10-11 17:57:37,681 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 149.30
+2026-10-11 17:57:37,850 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.08
+2026-10-11 17:57:38,010 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 54.37
+2026-10-11 17:57:38,177 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.79
+2026-10-11 17:57:38,345 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.54
+2026-10-11 17:57:38,513 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 93.18
+2026-10-11 17:57:38,679 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 32.37
+2026-10-11 17:57:38,841 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.77
+2026-10-11 17:57:39,009 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.00
+2026-10-11 17:57:39,178 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 28.61
+2026-10-11 17:57:39,342 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.08
+2026-10-11 17:57:39,437 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 47.80
+2026-10-11 17:58:06,171 - PerformanceMonitoring - INFO - 
+Epoch 1:
+2026-10-11 17:58:06,171 - PerformanceMonitoring - INFO -   Train Loss: 2.8659 | Train Acc: 40.28%
+2026-10-11 17:58:06,171 - PerformanceMonitoring - INFO -   Val Loss:   2.4626 | Val Acc:   74.71%
+2026-10-11 17:58:06,171 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 17:58:06,171 - __main__ - INFO - lr: [0.00015149999999999997]
+2026-10-11 17:58:06,171 - __main__ - INFO - epoch time: 277.93s
+2026-10-11 17:58:19,969 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.45
+2026-10-11 17:58:20,123 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.25
+2026-10-11 17:58:20,290 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 44.78
+2026-10-11 17:58:20,453 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.24
+2026-10-11 17:58:20,625 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.64
+2026-10-11 17:58:20,787 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.16
+2026-10-11 17:58:20,954 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.83
+2026-10-11 17:58:21,117 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.24
+2026-10-11 17:58:21,278 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.08
+2026-10-11 17:58:21,441 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.01
+2026-10-11 17:58:21,604 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.24
+2026-10-11 17:58:21,766 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.18
+2026-10-11 17:58:21,917 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.31
+2026-10-11 17:58:22,089 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.20
+2026-10-11 17:58:22,248 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.11
+2026-10-11 17:58:22,587 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.88
+2026-10-11 17:58:22,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.33
+2026-10-11 17:58:22,905 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 43.02
+2026-10-11 17:58:23,231 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.24
+2026-10-11 17:58:23,390 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.65
+2026-10-11 17:58:23,556 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.98
+2026-10-11 17:58:23,708 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.92
+2026-10-11 17:58:23,867 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.28
+2026-10-11 17:58:24,196 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.18
+2026-10-11 17:58:24,361 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.34
+2026-10-11 17:58:24,520 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.85
+2026-10-11 17:58:24,846 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.71
+2026-10-11 17:58:25,009 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.36
+2026-10-11 17:58:25,168 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.07
+2026-10-11 17:58:25,332 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.11
+2026-10-11 17:58:25,501 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.78
+2026-10-11 17:58:25,660 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 30.95
+2026-10-11 17:58:25,823 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.54
+2026-10-11 17:58:25,982 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.90
+2026-10-11 17:58:26,152 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 29.16
+2026-10-11 17:58:26,310 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.75
+2026-10-11 17:58:26,476 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.27
+2026-10-11 17:58:26,644 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.01
+2026-10-11 17:58:26,806 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.75
+2026-10-11 17:58:26,968 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.24
+2026-10-11 17:58:27,292 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.11
+2026-10-11 17:58:27,455 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.29
+2026-10-11 17:58:27,619 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.58
+2026-10-11 17:58:28,264 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.34
+2026-10-11 17:58:28,596 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 24.17
+2026-10-11 17:58:28,761 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.19
+2026-10-11 17:58:28,911 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.41
+2026-10-11 17:58:29,882 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.27
+2026-10-11 17:58:30,868 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.91
+2026-10-11 17:58:31,198 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.81
+2026-10-11 17:58:31,524 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.43
+2026-10-11 17:58:31,688 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.21
+2026-10-11 17:58:31,850 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.79
+2026-10-11 17:58:32,345 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.11
+2026-10-11 17:58:32,512 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.33
+2026-10-11 17:58:32,836 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.30
+2026-10-11 17:58:33,468 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.74
+2026-10-11 17:58:33,637 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.53
+2026-10-11 17:58:33,967 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.87
+2026-10-11 17:58:34,288 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.05
+2026-10-11 17:58:34,450 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.20
+2026-10-11 17:58:35,111 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.34
+2026-10-11 17:58:35,437 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.27
+2026-10-11 17:58:35,763 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.68
+2026-10-11 17:58:36,091 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.27
+2026-10-11 17:58:36,253 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.43
+2026-10-11 17:58:36,588 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.09
+2026-10-11 17:58:36,752 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.03
+2026-10-11 17:58:36,910 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.55
+2026-10-11 17:58:37,061 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.20
+2026-10-11 17:58:37,228 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.25
+2026-10-11 17:58:38,211 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.17
+2026-10-11 17:58:38,378 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.37
+2026-10-11 17:58:38,550 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.35
+2026-10-11 17:58:38,705 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 33.08
+2026-10-11 17:58:39,368 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.55
+2026-10-11 17:58:40,175 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.60
+2026-10-11 17:58:40,504 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.31
+2026-10-11 17:58:41,149 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.97
+2026-10-11 17:58:41,309 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.10
+2026-10-11 17:58:41,644 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.40
+2026-10-11 17:58:41,809 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.49
+2026-10-11 17:58:41,961 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.62
+2026-10-11 17:58:42,288 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.80
+2026-10-11 17:58:42,623 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.72
+2026-10-11 17:58:44,099 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.51
+2026-10-11 17:58:45,093 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.24
+2026-10-11 17:58:45,258 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.05
+2026-10-11 17:58:45,587 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 96.82
+2026-10-11 17:58:45,754 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 57.59
+2026-10-11 17:58:46,086 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.14
+2026-10-11 17:58:46,752 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.52
+2026-10-11 17:58:46,914 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.77
+2026-10-11 17:58:47,245 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.62
+2026-10-11 17:58:47,894 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.50
+2026-10-11 17:58:48,059 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.73
+2026-10-11 17:58:48,710 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.14
+2026-10-11 17:58:49,203 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.09
+2026-10-11 17:58:49,539 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.15
+2026-10-11 17:58:50,026 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.08
+2026-10-11 17:58:50,837 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.08
+2026-10-11 17:58:51,479 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.41
+2026-10-11 17:58:51,645 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.20
+2026-10-11 17:58:51,980 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.98
+2026-10-11 17:58:52,145 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.17
+2026-10-11 17:58:52,467 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.34
+2026-10-11 17:58:52,633 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.34
+2026-10-11 17:58:52,801 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.77
+2026-10-11 17:58:52,965 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.43
+2026-10-11 17:58:53,294 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.61
+2026-10-11 17:58:53,615 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.37
+2026-10-11 17:58:53,787 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.90
+2026-10-11 17:58:54,273 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.76
+2026-10-11 17:58:54,428 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.09
+2026-10-11 17:58:54,599 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.43
+2026-10-11 17:58:54,773 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.14
+2026-10-11 17:58:54,942 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.79
+2026-10-11 17:58:55,427 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.10
+2026-10-11 17:58:55,756 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 342.62
+2026-10-11 17:58:55,921 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.28
+2026-10-11 17:58:56,754 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.40
+2026-10-11 17:58:57,244 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.29
+2026-10-11 17:58:57,409 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.47
+2026-10-11 17:58:57,574 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.80
+2026-10-11 17:58:58,385 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.03
+2026-10-11 17:58:59,204 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.73
+2026-10-11 17:59:00,346 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 320.54
+2026-10-11 17:59:00,515 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.36
+2026-10-11 17:59:01,988 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.76
+2026-10-11 17:59:03,139 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.32
+2026-10-11 17:59:04,772 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.33
+2026-10-11 17:59:05,262 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.07
+2026-10-11 17:59:07,724 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.84
+2026-10-11 17:59:10,824 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.34
+2026-10-11 17:59:10,991 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.74
+2026-10-11 17:59:11,323 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.89
+2026-10-11 17:59:11,650 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.88
+2026-10-11 17:59:12,460 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.05
+2026-10-11 17:59:12,619 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.59
+2026-10-11 17:59:12,963 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.54
+2026-10-11 17:59:13,448 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.96
+2026-10-11 17:59:13,601 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.87
+2026-10-11 17:59:15,573 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.27
+2026-10-11 17:59:17,219 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.55
+2026-10-11 17:59:18,028 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.01
+2026-10-11 17:59:18,353 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.67
+2026-10-11 17:59:18,843 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.04
+2026-10-11 17:59:19,342 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.48
+2026-10-11 17:59:20,664 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 42.44
+2026-10-11 17:59:20,832 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.04
+2026-10-11 17:59:23,145 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 26.91
+2026-10-11 17:59:23,302 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.78
+2026-10-11 17:59:25,773 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.24
+2026-10-11 17:59:26,918 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.71
+2026-10-11 17:59:27,260 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.22
+2026-10-11 17:59:28,880 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.06
+2026-10-11 17:59:29,223 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.42
+2026-10-11 17:59:29,547 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.82
+2026-10-11 17:59:32,657 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.14
+2026-10-11 17:59:33,160 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.19
+2026-10-11 17:59:35,115 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.58
+2026-10-11 17:59:35,280 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.84
+2026-10-11 17:59:36,258 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.06
+2026-10-11 17:59:36,582 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.79
+2026-10-11 17:59:37,730 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.23
+2026-10-11 17:59:38,050 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.44
+2026-10-11 17:59:38,541 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.37
+2026-10-11 17:59:39,025 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.55
+2026-10-11 17:59:40,505 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.18
+2026-10-11 17:59:43,462 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.50
+2026-10-11 17:59:45,460 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.67
+2026-10-11 17:59:46,721 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.01
+2026-10-11 17:59:48,320 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.69
+2026-10-11 17:59:49,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 23.90
+2026-10-11 17:59:51,332 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.27
+2026-10-11 17:59:52,801 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.51
+2026-10-11 17:59:53,779 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.85
+2026-10-11 17:59:54,608 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.55
+2026-10-11 17:59:55,443 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.19
+2026-10-11 17:59:57,227 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.16
+2026-10-11 17:59:57,398 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.02
+2026-10-11 17:59:57,716 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.82
+2026-10-11 17:59:59,019 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.87
+2026-10-11 17:59:59,353 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.60
+2026-10-11 17:59:59,841 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.96
+2026-10-11 18:00:00,011 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.05
+2026-10-11 18:00:00,989 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.91
+2026-10-11 18:00:01,980 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.37
+2026-10-11 18:00:02,475 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.26
+2026-10-11 18:00:02,810 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.51
+2026-10-11 18:00:03,800 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.35
+2026-10-11 18:00:04,138 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.80
+2026-10-11 18:00:04,302 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.63
+2026-10-11 18:00:05,466 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.22
+2026-10-11 18:00:05,953 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.84
+2026-10-11 18:00:07,584 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.54
+2026-10-11 18:00:08,823 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.43
+2026-10-11 18:00:08,993 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.29
+2026-10-11 18:00:10,074 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.49
+2026-10-11 18:00:12,192 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.59
+2026-10-11 18:00:15,802 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.09
+2026-10-11 18:00:15,958 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.55
+2026-10-11 18:00:16,276 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.66
+2026-10-11 18:00:16,447 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.32
+2026-10-11 18:00:17,590 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.75
+2026-10-11 18:00:19,220 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.30
+2026-10-11 18:00:19,388 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.06
+2026-10-11 18:00:19,550 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.30
+2026-10-11 18:00:20,547 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.76
+2026-10-11 18:00:21,379 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.74
+2026-10-11 18:00:22,872 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.14
+2026-10-11 18:00:27,375 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.05
+2026-10-11 18:00:28,897 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.12
+2026-10-11 18:00:29,059 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.82
+2026-10-11 18:00:33,467 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.09
+2026-10-11 18:00:33,800 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.27
+2026-10-11 18:00:34,625 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.40
+2026-10-11 18:00:35,459 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.25
+2026-10-11 18:00:36,130 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.26
+2026-10-11 18:00:37,305 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.48
+2026-10-11 18:00:38,669 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.78
+2026-10-11 18:00:39,008 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.48
+2026-10-11 18:00:40,203 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.26
+2026-10-11 18:00:40,858 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.52
+2026-10-11 18:00:42,382 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.42
+2026-10-11 18:00:46,893 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.93
+2026-10-11 18:00:47,051 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.56
+2026-10-11 18:00:47,542 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.81
+2026-10-11 18:00:47,716 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.94
+2026-10-11 18:00:50,266 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.09
+2026-10-11 18:00:50,750 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.08
+2026-10-11 18:00:52,108 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.00
+2026-10-11 18:00:53,628 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.06
+2026-10-11 18:00:54,303 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.57
+2026-10-11 18:00:54,477 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.13
+2026-10-11 18:00:56,300 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.75
+2026-10-11 18:00:56,476 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.46
+2026-10-11 18:00:56,809 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.91
+2026-10-11 18:00:58,486 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.02
+2026-10-11 18:00:58,808 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.23
+2026-10-11 18:00:58,998 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.28
+2026-10-11 18:00:59,170 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.87
+2026-10-11 18:00:59,667 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.85
+2026-10-11 18:01:00,007 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.43
+2026-10-11 18:01:01,188 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.40
+2026-10-11 18:01:02,356 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.14
+2026-10-11 18:01:03,538 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.38
+2026-10-11 18:01:05,864 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.61
+2026-10-11 18:01:06,039 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.72
+2026-10-11 18:01:06,863 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.29
+2026-10-11 18:01:07,370 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.04
+2026-10-11 18:01:07,528 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.01
+2026-10-11 18:01:07,695 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.76
+2026-10-11 18:01:07,861 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.45
+2026-10-11 18:01:08,679 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.71
+2026-10-11 18:01:08,854 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.33
+2026-10-11 18:01:09,012 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 25.12
+2026-10-11 18:01:09,346 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.30
+2026-10-11 18:01:09,697 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.21
+2026-10-11 18:01:11,700 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.50
+2026-10-11 18:01:12,712 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 27.37
+2026-10-11 18:01:14,921 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.36
+2026-10-11 18:01:15,094 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.36
+2026-10-11 18:01:17,406 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.12
+2026-10-11 18:01:17,580 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.57
+2026-10-11 18:01:18,058 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.74
+2026-10-11 18:01:18,233 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.99
+2026-10-11 18:01:18,406 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.46
+2026-10-11 18:01:18,723 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.01
+2026-10-11 18:01:19,398 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.54
+2026-10-11 18:01:19,888 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.08
+2026-10-11 18:01:20,060 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.99
+2026-10-11 18:01:21,408 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.81
+2026-10-11 18:01:22,077 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 39.10
+2026-10-11 18:01:22,418 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.08
+2026-10-11 18:01:22,594 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.36
+2026-10-11 18:01:22,745 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.50
+2026-10-11 18:01:23,234 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.51
+2026-10-11 18:01:24,254 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.86
+2026-10-11 18:01:24,417 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 18.98
+2026-10-11 18:01:25,927 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.61
+2026-10-11 18:01:26,098 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.30
+2026-10-11 18:01:29,395 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.31
+2026-10-11 18:01:29,723 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.16
+2026-10-11 18:01:30,056 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.23
+2026-10-11 18:01:33,887 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 17.51
+2026-10-11 18:01:34,221 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.32
+2026-10-11 18:01:34,712 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.64
+2026-10-11 18:01:36,882 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 12.06
+2026-10-11 18:01:37,722 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 13.46
+2026-10-11 18:01:39,212 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 22.82
+2026-10-11 18:01:42,211 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.21
+2026-10-11 18:01:50,980 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.42
+2026-10-11 18:01:51,329 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.36
+2026-10-11 18:01:52,167 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.36
+2026-10-11 18:01:56,358 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.55
+2026-10-11 18:02:01,773 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.25
+2026-10-11 18:02:02,793 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.54
+2026-10-11 18:02:04,463 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.60
+2026-10-11 18:02:05,787 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 11.96
+2026-10-11 18:02:07,926 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.47
+2026-10-11 18:02:08,574 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.96
+2026-10-11 18:02:10,574 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 10.47
+2026-10-11 18:02:11,227 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 20.65
+2026-10-11 18:02:11,733 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 15.12
+2026-10-11 18:02:14,222 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.26
+2026-10-11 18:02:15,383 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 14.41
+2026-10-11 18:02:16,218 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 21.82
+2026-10-11 18:02:17,231 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 19.71
+2026-10-11 18:02:17,897 - PerformanceMonitoring - INFO -   ⚠️ Gradient Explosion! Norm: 16.15
+2026-10-11 18:02:45,671 - PerformanceMonitoring - INFO - 
+Epoch 2:
+2026-10-11 18:02:45,671 - PerformanceMonitoring - INFO -   Train Loss: 0.2365 | Train Acc: 96.51%
+2026-10-11 18:02:45,671 - PerformanceMonitoring - INFO -   Val Loss:   0.3046 | Val Acc:   98.42%
+2026-10-11 18:02:45,671 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:02:45,671 - __main__ - INFO - lr: [0.0003]
+2026-10-11 18:02:45,672 - __main__ - INFO - epoch time: 279.50s
+2026-10-11 18:22:02,189 - __main__ - INFO - Training process started
+2026-10-11 18:22:02,190 - __main__ - INFO - Device: cuda
+2026-10-11 18:22:02,190 - __main__ - INFO - Data directory: preProcess
+2026-10-11 18:22:02,190 - __main__ - INFO - Output directory: result
+2026-10-11 18:22:02,190 - __main__ - INFO - Number of epochs: 10
+2026-10-11 18:22:02,275 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 18:22:02,293 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 18:22:02,910 - __main__ - INFO - Model: mobileNetV3
+2026-10-11 18:22:02,910 - __main__ - INFO - Number of classes: 23
+2026-10-11 18:22:02,910 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 18:22:02,911 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 18:22:02,911 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 18:22:02,911 - __main__ - INFO - training epochs: 10
+2026-10-11 18:23:20,879 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:23:20,879 - PerformanceMonitoring - INFO - 
+Epoch 1:
+2026-10-11 18:23:20,879 - PerformanceMonitoring - INFO -   Train Loss: 3.0870 | Train Acc: 10.36%
+2026-10-11 18:23:20,879 - PerformanceMonitoring - INFO -   Val Loss:   2.9814 | Val Acc:   25.22%
+2026-10-11 18:23:20,880 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:23:20,880 - __main__ - INFO - lr: [0.00015149999999999997]
+2026-10-11 18:23:20,880 - __main__ - INFO - epoch time: 77.97s
+2026-10-11 18:24:38,280 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:24:38,280 - PerformanceMonitoring - INFO - 
+Epoch 2:
+2026-10-11 18:24:38,280 - PerformanceMonitoring - INFO -   Train Loss: 0.5129 | Train Acc: 87.54%
+2026-10-11 18:24:38,280 - PerformanceMonitoring - INFO -   Val Loss:   0.0986 | Val Acc:   96.74%
+2026-10-11 18:24:38,280 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:24:38,280 - __main__ - INFO - lr: [0.0003]
+2026-10-11 18:24:38,280 - __main__ - INFO - epoch time: 77.40s
+2026-10-11 18:25:56,243 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:25:56,244 - PerformanceMonitoring - INFO - 
+Epoch 3:
+2026-10-11 18:25:56,244 - PerformanceMonitoring - INFO -   Train Loss: 0.1044 | Train Acc: 96.53%
+2026-10-11 18:25:56,244 - PerformanceMonitoring - INFO -   Val Loss:   0.0505 | Val Acc:   98.26%
+2026-10-11 18:25:56,244 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:25:56,244 - __main__ - INFO - lr: [0.000288581929876693]
+2026-10-11 18:25:56,244 - __main__ - INFO - epoch time: 77.96s
+2026-10-11 18:27:14,404 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:27:14,404 - PerformanceMonitoring - INFO - 
+Epoch 4:
+2026-10-11 18:27:14,404 - PerformanceMonitoring - INFO -   Train Loss: 0.0554 | Train Acc: 98.18%
+2026-10-11 18:27:14,404 - PerformanceMonitoring - INFO -   Val Loss:   0.0406 | Val Acc:   98.59%
+2026-10-11 18:27:14,404 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:27:14,404 - __main__ - INFO - lr: [0.0002560660171779821]
+2026-10-11 18:27:14,404 - __main__ - INFO - epoch time: 78.16s
+2026-10-11 18:28:32,946 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:28:32,947 - PerformanceMonitoring - INFO - 
+Epoch 5:
+2026-10-11 18:28:32,947 - PerformanceMonitoring - INFO -   Train Loss: 0.0353 | Train Acc: 98.76%
+2026-10-11 18:28:32,947 - PerformanceMonitoring - INFO -   Val Loss:   0.0365 | Val Acc:   98.91%
+2026-10-11 18:28:32,947 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:28:32,947 - __main__ - INFO - lr: [0.00020740251485476348]
+2026-10-11 18:28:32,947 - __main__ - INFO - epoch time: 78.54s
+2026-10-11 18:29:50,514 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:29:50,514 - PerformanceMonitoring - INFO - 
+Epoch 6:
+2026-10-11 18:29:50,514 - PerformanceMonitoring - INFO -   Train Loss: 0.0237 | Train Acc: 99.22%
+2026-10-11 18:29:50,514 - PerformanceMonitoring - INFO -   Val Loss:   0.0294 | Val Acc:   99.15%
+2026-10-11 18:29:50,514 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:29:50,514 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 18:29:50,514 - __main__ - INFO - lr: [0.00015]
+2026-10-11 18:29:50,514 - __main__ - INFO - epoch time: 77.57s
+2026-10-11 18:31:08,001 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:31:08,001 - PerformanceMonitoring - INFO - 
+Epoch 7:
+2026-10-11 18:31:08,001 - PerformanceMonitoring - INFO -   Train Loss: 0.0166 | Train Acc: 99.46%
+2026-10-11 18:31:08,001 - PerformanceMonitoring - INFO -   Val Loss:   0.0243 | Val Acc:   99.31%
+2026-10-11 18:31:08,001 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:31:08,001 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 18:31:08,001 - __main__ - INFO - lr: [9.259748514523653e-05]
+2026-10-11 18:31:08,001 - __main__ - INFO - epoch time: 77.49s
+2026-10-11 18:32:32,192 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:32:32,192 - PerformanceMonitoring - INFO - 
+Epoch 8:
+2026-10-11 18:32:32,192 - PerformanceMonitoring - INFO -   Train Loss: 0.0119 | Train Acc: 99.61%
+2026-10-11 18:32:32,192 - PerformanceMonitoring - INFO -   Val Loss:   0.0223 | Val Acc:   99.34%
+2026-10-11 18:32:32,192 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:32:32,192 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 18:32:32,192 - __main__ - INFO - lr: [4.3933982822017876e-05]
+2026-10-11 18:32:32,192 - __main__ - INFO - epoch time: 84.20s
+2026-10-11 18:33:50,069 - PerformanceMonitoring - INFO - checkpoint saved at result/models\checkpoint.pt
+2026-10-11 18:33:50,069 - PerformanceMonitoring - INFO - 
+Epoch 9:
+2026-10-11 18:33:50,069 - PerformanceMonitoring - INFO -   Train Loss: 0.0093 | Train Acc: 99.71%
+2026-10-11 18:33:50,069 - PerformanceMonitoring - INFO -   Val Loss:   0.0199 | Val Acc:   99.43%
+2026-10-11 18:33:50,069 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:33:50,069 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 18:33:50,069 - __main__ - INFO - lr: [1.1418070123306989e-05]
+2026-10-11 18:33:50,069 - __main__ - INFO - epoch time: 77.87s
+2026-10-11 18:35:07,907 - PerformanceMonitoring - INFO - 
+Epoch 10:
+2026-10-11 18:35:07,908 - PerformanceMonitoring - INFO -   Train Loss: 0.0078 | Train Acc: 99.74%
+2026-10-11 18:35:07,908 - PerformanceMonitoring - INFO -   Val Loss:   0.0196 | Val Acc:   99.40%
+2026-10-11 18:35:07,908 - PerformanceMonitoring - INFO -   Early Stop Counter: 1/5
+2026-10-11 18:35:07,908 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 18:35:07,908 - __main__ - INFO - lr: [0.0]
+2026-10-11 18:35:07,908 - __main__ - INFO - epoch time: 77.84s
+2026-10-11 18:35:07,928 - __main__ - INFO - Best model saved as result/models/mobileNetV3/best_model.pt
+2026-10-11 18:42:29,149 - __main__ - INFO - Training process started
+2026-10-11 18:42:29,150 - __main__ - INFO - Device: cuda
+2026-10-11 18:42:29,150 - __main__ - INFO - Data directory: preProcess
+2026-10-11 18:42:29,150 - __main__ - INFO - Output directory: result
+2026-10-11 18:42:29,150 - __main__ - INFO - Number of epochs: 10
+2026-10-11 18:42:29,235 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 18:42:29,252 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 18:42:30,058 - __main__ - INFO - Model: levit384
+2026-10-11 18:42:30,058 - __main__ - INFO - Number of classes: 23
+2026-10-11 18:42:30,058 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 18:42:30,058 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 18:42:30,058 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 18:42:30,058 - __main__ - INFO - training epochs: 10
+2026-10-11 18:43:02,737 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 187.86
+2026-10-11 18:43:29,658 - __main__ - INFO - Training process started
+2026-10-11 18:43:29,659 - __main__ - INFO - Device: cuda
+2026-10-11 18:43:29,659 - __main__ - INFO - Data directory: preProcess
+2026-10-11 18:43:29,659 - __main__ - INFO - Output directory: result
+2026-10-11 18:43:29,659 - __main__ - INFO - Number of epochs: 10
+2026-10-11 18:43:29,746 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 18:43:29,764 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 18:43:39,558 - __main__ - INFO - Training process started
+2026-10-11 18:43:39,559 - __main__ - INFO - Device: cuda
+2026-10-11 18:43:39,559 - __main__ - INFO - Data directory: preProcess
+2026-10-11 18:43:39,559 - __main__ - INFO - Output directory: result
+2026-10-11 18:43:39,559 - __main__ - INFO - Number of epochs: 10
+2026-10-11 18:43:39,644 - __main__ - INFO - Train samples: 46000 | Validation samples: 7141
+2026-10-11 18:43:39,663 - __main__ - INFO - Datasets and dataloaders created
+2026-10-11 18:43:40,372 - __main__ - INFO - Model: levit384
+2026-10-11 18:43:40,372 - __main__ - INFO - Number of classes: 23
+2026-10-11 18:43:40,372 - __main__ - INFO - Optimizer: AdamW
+2026-10-11 18:43:40,372 - __main__ - INFO - Loss function: CrossEntropyLoss
+2026-10-11 18:43:40,372 - __main__ - INFO - Learning rate strategy: Cosine
+2026-10-11 18:43:40,372 - __main__ - INFO - training epochs: 10
+2026-10-11 18:43:55,176 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 109.15
+2026-10-11 18:44:26,523 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 119.15
+2026-10-11 18:44:29,447 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 171.48
+2026-10-11 18:44:37,281 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 179.67
+2026-10-11 18:45:06,752 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 166.34
+2026-10-11 18:45:11,670 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 126.42
+2026-10-11 18:45:20,409 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 102.28
+2026-10-11 18:45:27,177 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 124.06
+2026-10-11 18:45:27,333 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 103.83
+2026-10-11 18:46:09,714 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 245.31
+2026-10-11 18:46:47,973 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 305.26
+2026-10-11 18:46:54,416 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 104.85
+2026-10-11 18:46:56,872 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 191.14
+2026-10-11 18:47:23,472 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 154.75
+2026-10-11 18:48:01,352 - PerformanceMonitoring - INFO - checkpoint saved at result/models/levit384\checkpoint.pt
+2026-10-11 18:48:01,352 - PerformanceMonitoring - INFO - 
+Epoch 1:
+2026-10-11 18:48:01,352 - PerformanceMonitoring - INFO -   Train Loss: 2.8894 | Train Acc: 37.85%
+2026-10-11 18:48:01,352 - PerformanceMonitoring - INFO -   Val Loss:   2.5281 | Val Acc:   71.66%
+2026-10-11 18:48:01,352 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:48:01,352 - __main__ - INFO - lr: [0.00015149999999999997]
+2026-10-11 18:48:01,352 - __main__ - INFO - epoch time: 260.98s
+2026-10-11 18:48:21,980 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 133.46
+2026-10-11 18:48:22,440 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 166.41
+2026-10-11 18:48:23,813 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 110.79
+2026-10-11 18:52:23,133 - PerformanceMonitoring - INFO - checkpoint saved at result/models/levit384\checkpoint.pt
+2026-10-11 18:52:23,133 - PerformanceMonitoring - INFO - 
+Epoch 2:
+2026-10-11 18:52:23,133 - PerformanceMonitoring - INFO -   Train Loss: 0.2100 | Train Acc: 96.32%
+2026-10-11 18:52:23,133 - PerformanceMonitoring - INFO -   Val Loss:   0.0604 | Val Acc:   98.36%
+2026-10-11 18:52:23,133 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:52:23,133 - __main__ - INFO - lr: [0.0003]
+2026-10-11 18:52:23,133 - __main__ - INFO - epoch time: 261.78s
+2026-10-11 18:53:33,853 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 123.43
+2026-10-11 18:56:52,892 - PerformanceMonitoring - INFO - checkpoint saved at result/models/levit384\checkpoint.pt
+2026-10-11 18:56:52,892 - PerformanceMonitoring - INFO - 
+Epoch 3:
+2026-10-11 18:56:52,892 - PerformanceMonitoring - INFO -   Train Loss: 0.0734 | Train Acc: 97.91%
+2026-10-11 18:56:52,892 - PerformanceMonitoring - INFO -   Val Loss:   0.0509 | Val Acc:   98.85%
+2026-10-11 18:56:52,892 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 18:56:52,892 - __main__ - INFO - lr: [0.000288581929876693]
+2026-10-11 18:56:52,892 - __main__ - INFO - epoch time: 269.76s
+2026-10-11 19:01:17,611 - PerformanceMonitoring - INFO - checkpoint saved at result/models/levit384\checkpoint.pt
+2026-10-11 19:01:17,611 - PerformanceMonitoring - INFO - 
+Epoch 4:
+2026-10-11 19:01:17,611 - PerformanceMonitoring - INFO -   Train Loss: 0.0415 | Train Acc: 98.84%
+2026-10-11 19:01:17,611 - PerformanceMonitoring - INFO -   Val Loss:   0.0288 | Val Acc:   99.23%
+2026-10-11 19:01:17,611 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 19:01:17,611 - __main__ - INFO - lr: [0.0002560660171779821]
+2026-10-11 19:01:17,611 - __main__ - INFO - epoch time: 264.72s
+2026-10-11 19:05:43,108 - PerformanceMonitoring - INFO - 
+Epoch 5:
+2026-10-11 19:05:43,108 - PerformanceMonitoring - INFO -   Train Loss: 0.0243 | Train Acc: 99.31%
+2026-10-11 19:05:43,109 - PerformanceMonitoring - INFO -   Val Loss:   0.0444 | Val Acc:   99.05%
+2026-10-11 19:05:43,109 - PerformanceMonitoring - INFO -   Early Stop Counter: 1/5
+2026-10-11 19:05:43,109 - __main__ - INFO - lr: [0.00020740251485476348]
+2026-10-11 19:05:43,109 - __main__ - INFO - epoch time: 265.50s
+2026-10-11 19:09:00,364 - PerformanceMonitoring - WARNING -   Gradient explosion! Norm: 129.91
+2026-10-11 19:10:05,653 - PerformanceMonitoring - INFO - 
+Epoch 6:
+2026-10-11 19:10:05,653 - PerformanceMonitoring - INFO -   Train Loss: 0.0183 | Train Acc: 99.50%
+2026-10-11 19:10:05,653 - PerformanceMonitoring - INFO -   Val Loss:   0.0369 | Val Acc:   99.22%
+2026-10-11 19:10:05,653 - PerformanceMonitoring - INFO -   Early Stop Counter: 2/5
+2026-10-11 19:10:05,653 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 19:10:05,653 - __main__ - INFO - lr: [0.00015]
+2026-10-11 19:10:05,653 - __main__ - INFO - epoch time: 262.55s
+2026-10-11 19:14:28,053 - PerformanceMonitoring - INFO - checkpoint saved at result/models/levit384\checkpoint.pt
+2026-10-11 19:14:28,054 - PerformanceMonitoring - INFO - 
+Epoch 7:
+2026-10-11 19:14:28,054 - PerformanceMonitoring - INFO -   Train Loss: 0.0059 | Train Acc: 99.86%
+2026-10-11 19:14:28,054 - PerformanceMonitoring - INFO -   Val Loss:   0.0141 | Val Acc:   99.65%
+2026-10-11 19:14:28,054 - PerformanceMonitoring - INFO -   Early Stop Counter: 0/5
+2026-10-11 19:14:28,054 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 19:14:28,054 - __main__ - INFO - lr: [9.259748514523653e-05]
+2026-10-11 19:14:28,054 - __main__ - INFO - epoch time: 262.40s
+2026-10-11 19:18:52,959 - PerformanceMonitoring - INFO - 
+Epoch 8:
+2026-10-11 19:18:52,959 - PerformanceMonitoring - INFO -   Train Loss: 0.0040 | Train Acc: 99.88%
+2026-10-11 19:18:52,959 - PerformanceMonitoring - INFO -   Val Loss:   0.0162 | Val Acc:   99.69%
+2026-10-11 19:18:52,959 - PerformanceMonitoring - INFO -   Early Stop Counter: 1/5
+2026-10-11 19:18:52,959 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 19:18:52,960 - __main__ - INFO - lr: [4.3933982822017876e-05]
+2026-10-11 19:18:52,960 - __main__ - INFO - epoch time: 264.91s
+2026-10-11 19:23:16,988 - PerformanceMonitoring - INFO - 
+Epoch 9:
+2026-10-11 19:23:17,004 - PerformanceMonitoring - INFO -   Train Loss: 0.0014 | Train Acc: 99.96%
+2026-10-11 19:23:17,004 - PerformanceMonitoring - INFO -   Val Loss:   0.0154 | Val Acc:   99.75%
+2026-10-11 19:23:17,004 - PerformanceMonitoring - INFO -   Early Stop Counter: 2/5
+2026-10-11 19:23:17,004 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 19:23:17,004 - __main__ - INFO - lr: [1.1418070123306989e-05]
+2026-10-11 19:23:17,004 - __main__ - INFO - epoch time: 264.04s
+2026-10-11 19:27:41,466 - PerformanceMonitoring - INFO - 
+Epoch 10:
+2026-10-11 19:27:41,466 - PerformanceMonitoring - INFO -   Train Loss: 0.0002 | Train Acc: 99.99%
+2026-10-11 19:27:41,466 - PerformanceMonitoring - INFO -   Val Loss:   0.0152 | Val Acc:   99.76%
+2026-10-11 19:27:41,466 - PerformanceMonitoring - INFO -   Early Stop Counter: 3/5
+2026-10-11 19:27:41,466 - PerformanceMonitoring - INFO -   ⚠️ Warning: Possible Overfitting detected!
+2026-10-11 19:27:41,466 - __main__ - INFO - lr: [0.0]
+2026-10-11 19:27:41,466 - __main__ - INFO - epoch time: 264.46s
+2026-10-11 19:27:41,590 - __main__ - INFO - Best model saved as result/models/levit384/best_model.pt
