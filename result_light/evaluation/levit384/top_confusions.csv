@@ -1,0 +1,11 @@
+true,predicted,count
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,3
+Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3
+Tomato__Target_Spot,Tomato__Septoria_leaf_spot,1
+Tomato__Target_Spot,Tomato__Spider_mites_Two_spotted_spider_mite,1
+Tomato__Early_blight,Tomato__Late_blight,1
+Tomato__Spider_mites_Two_spotted_spider_mite,Tomato__Target_Spot,1
+Potato___healthy,Pepper__bell___healthy,1
+Tomato__healthy,Tomato__Tomato_mosaic_virus,0
+Tomato__healthy,Tomato__Tomato_YellowLeaf__Curl_Virus,0
+Tomato__healthy,Tomato__Target_Spot,0

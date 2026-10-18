@@ -35,3 +35,12 @@ train_final = pd.concat([train, new_rows], ignore_index=True)
 train_final.to_csv(OUT_DIR / "train.csv", index=False)
 
 print(train_final['label'].value_counts())
+
+#%%
+import json
+import pandas as pd
+train_df = pd.read_csv("preProcess/train.csv")
+classes = sorted(set(train_df['label'].values.tolist()))
+id_class = {idx: class_name for idx, class_name in enumerate(classes) }
+with open('preProcess/classes.json', 'w') as f:
+    json.dump(id_class, f)

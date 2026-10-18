@@ -15,7 +15,7 @@ from sklearn.metrics import (
     classification_report, confusion_matrix, top_k_accuracy_score,
     roc_auc_score, f1_score, accuracy_score,
 )
-
+from train_lightning import LModel
 from backbone import Backbone
 from dataset import PlantDataset
 from transforms import Transforms
@@ -27,19 +27,21 @@ test_df = pd.read_csv('preProcess/test.csv')
 transform = Transforms(is_train=False).get_transform()
 test_dataset = PlantDataset(test_df['path'].tolist(), test_df['label'].tolist(), transform=transform)
 test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, num_workers=2, pin_memory=True)
-class_names = list(test_dataset.unique_classes)
+class_names = test_dataset.unique_classes
 num_classes = len(class_names)
 
 #%%
 backbone = Backbone(num_classes=num_classes)
-#model = backbone.mobileNetV3(pretrained=False).to(device)
-model = backbone.levit384(pretrained=False).to(device)
+model = backbone.mobileNetV3(pretrained=False).to(device)
+#model = backbone.levit384(pretrained=False).to(device)
 model_type = backbone.get_model_type()
-wight_path = f'result/models/{model_type}/best_model.pt'
-model.load_state_dict(torch.load(wight_path, map_location=device))
+#wight_path = f'result/models/{model_type}/best_model.pt'
+#model.load_state_dict(torch.load(wight_path, map_location=device))
+
+model = LModel.load_from_checkpoint(f'./result_light/models/{model_type}/best.ckpt',model=model).model
 model.eval()
 
-out_dir = Path(f'result/evaluation/{model_type}')
+out_dir = Path(f'result_light/evaluation/{model_type}')
 out_dir.mkdir(parents=True, exist_ok=True)
 
 #%%
@@ -48,7 +50,7 @@ features = []
 #     lambda m, inp, out: features.append(inp[0].detach().cpu())
 # )
 hook = model.head.register_forward_hook(
-    lambda m, inp, out: features.append(inp[0].detach().cpu())
+    lambda module, input , output : features.append(input[0].detach().cpu())
 )
 
 all_logits, all_labels = [], []
